@@ -1,1 +1,2767 @@
-{"data":[{"id":1,"city":"Ambarawa"},{"id":2,"city":"Ambon"},{"id":3,"city":"Amlapura"},{"id":4,"city":"Amuntai"},{"id":5,"city":"Argamakmur"},{"id":6,"city":"Atambua"},{"id":7,"city":"Babo"},{"id":8,"city":"Bagan Siapiapi"},{"id":9,"city":"Bajawa"},{"id":10,"city":"Balige"},{"id":11,"city":"Balikpapan"},{"id":12,"city":"Banda Aceh"},{"id":13,"city":"Bandarlampung"},{"id":14,"city":"Bandung"},{"id":15,"city":"Bangkalan"},{"id":16,"city":"Bangkinang"},{"id":17,"city":"Bangko"},{"id":18,"city":"Bangli"},{"id":19,"city":"Banjar"},{"id":20,"city":"Banjar Baru"},{"id":21,"city":"Banjarmasin"},{"id":22,"city":"Banjarnegara"},{"id":23,"city":"Bantaeng"},{"id":24,"city":"Banten"},{"id":25,"city":"Bantul"},{"id":26,"city":"Banyuwangi"},{"id":27,"city":"Barabai"},{"id":28,"city":"Barito"},{"id":29,"city":"Barru"},{"id":30,"city":"Batam"},{"id":31,"city":"Batang"},{"id":32,"city":"Batu"},{"id":33,"city":"Baturaja"},{"id":34,"city":"Batusangkar"},{"id":35,"city":"Baubau"},{"id":36,"city":"Bekasi"},{"id":37,"city":"Bengkalis"},{"id":38,"city":"Bengkulu"},{"id":39,"city":"Benteng"},{"id":40,"city":"Biak"},{"id":41,"city":"Bima"},{"id":42,"city":"Binjai"},{"id":43,"city":"Bireuen"},{"id":44,"city":"Bitung"},{"id":45,"city":"Blitar"},{"id":46,"city":"Blora"},{"id":47,"city":"Bogor"},{"id":48,"city":"Bojonegoro"},{"id":49,"city":"Bondowoso"},{"id":50,"city":"Bontang"},{"id":51,"city":"Boyolali"},{"id":52,"city":"Brebes"},{"id":53,"city":"Bukit Tinggi"},{"id":54,"city":"Bulukumba"},{"id":55,"city":"Buntok"},{"id":56,"city":"Cepu"},{"id":57,"city":"Ciamis"},{"id":58,"city":"Cianjur"},{"id":59,"city":"Cibinong"},{"id":60,"city":"Cilacap"},{"id":61,"city":"Cilegon"},{"id":62,"city":"Cimahi"},{"id":63,"city":"Cirebon"},{"id":64,"city":"Curup"},{"id":65,"city":"Demak"},{"id":66,"city":"Denpasar"},{"id":67,"city":"Depok"},{"id":68,"city":"Dili"},{"id":69,"city":"Dompu"},{"id":70,"city":"Donggala"},{"id":71,"city":"Dumai"},{"id":72,"city":"Ende"},{"id":73,"city":"Enggano"},{"id":74,"city":"Enrekang"},{"id":75,"city":"Fakfak"},{"id":76,"city":"Garut"},{"id":77,"city":"Gianyar"},{"id":78,"city":"Gombong"},{"id":79,"city":"Gorontalo"},{"id":80,"city":"Gresik"},{"id":81,"city":"Gunung Sitoli"},{"id":82,"city":"Indramayu"},{"id":83,"city":"Jambi"},{"id":84,"city":"Jayapura"},{"id":85,"city":"Jember"},{"id":86,"city":"Jeneponto"},{"id":87,"city":"Jepara"},{"id":88,"city":"Jombang"},{"id":89,"city":"Kabanjahe"},{"id":90,"city":"Kalabahi"},{"id":91,"city":"Kalianda"},{"id":92,"city":"Kandangan"},{"id":93,"city":"Karanganyar"},{"id":94,"city":"Karawang"},{"id":95,"city":"Kasungan"},{"id":96,"city":"Kayuagung"},{"id":97,"city":"Kebumen"},{"id":98,"city":"Kediri"},{"id":99,"city":"Kefamenanu"},{"id":100,"city":"Kendal"},{"id":101,"city":"Kendari"},{"id":102,"city":"Kertosono"},{"id":103,"city":"Ketapang"},{"id":104,"city":"Kisaran"},{"id":105,"city":"Klaten"},{"id":106,"city":"Kolaka"},{"id":107,"city":"Kota Baru Pulau Laut"},{"id":108,"city":"Kota Bumi"},{"id":109,"city":"Kota Jantho"},{"id":110,"city":"Kotamobagu"},{"id":111,"city":"Kuala Kapuas"},{"id":112,"city":"Kuala Kurun"},{"id":113,"city":"Kuala Pembuang"},{"id":114,"city":"Kuala Tungkal"},{"id":115,"city":"Kudus"},{"id":116,"city":"Kuningan"},{"id":117,"city":"Kupang"},{"id":118,"city":"Kutacane"},{"id":119,"city":"Kutoarjo"},{"id":120,"city":"Labuhan"},{"id":121,"city":"Lahat"},{"id":122,"city":"Lamongan"},{"id":123,"city":"Langsa"},{"id":124,"city":"Larantuka"},{"id":125,"city":"Lawang"},{"id":126,"city":"Lhoseumawe"},{"id":127,"city":"Limboto"},{"id":128,"city":"Lubuk Basung"},{"id":129,"city":"Lubuk Linggau"},{"id":130,"city":"Lubuk Pakam"},{"id":131,"city":"Lubuk Sikaping"},{"id":132,"city":"Lumajang"},{"id":133,"city":"Luwuk"},{"id":134,"city":"Madiun"},{"id":135,"city":"Magelang"},{"id":136,"city":"Magetan"},{"id":137,"city":"Majalengka"},{"id":138,"city":"Majene"},{"id":139,"city":"Makale"},{"id":140,"city":"Makassar"},{"id":141,"city":"Malang"},{"id":142,"city":"Mamuju"},{"id":143,"city":"Manna"},{"id":144,"city":"Manokwari"},{"id":145,"city":"Marabahan"},{"id":146,"city":"Maros"},{"id":147,"city":"Martapura Kalsel"},{"id":148,"city":"Masohi"},{"id":149,"city":"Mataram"},{"id":150,"city":"Maumere"},{"id":151,"city":"Medan"},{"id":152,"city":"Mempawah"},{"id":153,"city":"Menado"},{"id":154,"city":"Mentok"},{"id":155,"city":"Merauke"},{"id":156,"city":"Metro"},{"id":157,"city":"Meulaboh"},{"id":158,"city":"Mojokerto"},{"id":159,"city":"Muara Bulian"},{"id":160,"city":"Muara Bungo"},{"id":161,"city":"Muara Enim"},{"id":162,"city":"Muara Teweh"},{"id":163,"city":"Muaro Sijunjung"},{"id":164,"city":"Muntilan"},{"id":165,"city":"Nabire"},{"id":166,"city":"Negara"},{"id":167,"city":"Nganjuk"},{"id":168,"city":"Ngawi"},{"id":169,"city":"Nunukan"},{"id":170,"city":"Pacitan"},{"id":171,"city":"Padang"},{"id":172,"city":"Padang Panjang"},{"id":173,"city":"Padang Sidempuan"},{"id":174,"city":"Pagaralam"},{"id":175,"city":"Painan"},{"id":176,"city":"Palangkaraya"},{"id":177,"city":"Palembang"},{"id":178,"city":"Palopo"},{"id":179,"city":"Palu"},{"id":180,"city":"Pamekasan"},{"id":181,"city":"Pandeglang"},{"id":182,"city":"Pangka_"},{"id":183,"city":"Pangkajene Sidenreng"},{"id":184,"city":"Pangkalan Bun"},{"id":185,"city":"Pangkalpinang"},{"id":186,"city":"Panyabungan"},{"id":187,"city":"Par_"},{"id":188,"city":"Parepare"},{"id":189,"city":"Pariaman"},{"id":190,"city":"Pasuruan"},{"id":191,"city":"Pati"},{"id":192,"city":"Payakumbuh"},{"id":193,"city":"Pekalongan"},{"id":194,"city":"Pekan Baru"},{"id":195,"city":"Pemalang"},{"id":196,"city":"Pematangsiantar"},{"id":197,"city":"Pendopo"},{"id":198,"city":"Pinrang"},{"id":199,"city":"Pleihari"},{"id":200,"city":"Polewali"},{"id":201,"city":"Pondok Gede"},{"id":202,"city":"Ponorogo"},{"id":203,"city":"Pontianak"},{"id":204,"city":"Poso"},{"id":205,"city":"Prabumulih"},{"id":206,"city":"Praya"},{"id":207,"city":"Probolinggo"},{"id":208,"city":"Purbalingga"},{"id":209,"city":"Purukcahu"},{"id":210,"city":"Purwakarta"},{"id":211,"city":"Purwodadigrobogan"},{"id":212,"city":"Purwokerto"},{"id":213,"city":"Purworejo"},{"id":214,"city":"Putussibau"},{"id":215,"city":"Raha"},{"id":216,"city":"Rangkasbitung"},{"id":217,"city":"Rantau"},{"id":218,"city":"Rantauprapat"},{"id":219,"city":"Rantepao"},{"id":220,"city":"Rembang"},{"id":221,"city":"Rengat"},{"id":222,"city":"Ruteng"},{"id":223,"city":"Sabang"},{"id":224,"city":"Salatiga"},{"id":225,"city":"Samarinda"},{"id":226,"city":"Sampang"},{"id":227,"city":"Sampit"},{"id":228,"city":"Sanggau"},{"id":229,"city":"Sawahlunto"},{"id":230,"city":"Sekayu"},{"id":231,"city":"Selong"},{"id":232,"city":"Semarang"},{"id":233,"city":"Sengkang"},{"id":234,"city":"Serang"},{"id":235,"city":"Serui"},{"id":236,"city":"Sibolga"},{"id":237,"city":"Sidikalang"},{"id":238,"city":"Sidoarjo"},{"id":239,"city":"Sigli"},{"id":240,"city":"Singaparna"},{"id":241,"city":"Singaraja"},{"id":242,"city":"Singkawang"},{"id":243,"city":"Sinjai"},{"id":244,"city":"Sintang"},{"id":245,"city":"Situbondo"},{"id":246,"city":"Slawi"},{"id":247,"city":"Sleman"},{"id":248,"city":"Soasiu"},{"id":249,"city":"Soe"},{"id":250,"city":"Solo"},{"id":251,"city":"Solok"},{"id":252,"city":"Soreang"},{"id":253,"city":"Sorong"},{"id":254,"city":"Sragen"},{"id":255,"city":"Stabat"},{"id":256,"city":"Subang"},{"id":257,"city":"Sukabumi"},{"id":258,"city":"Sukoharjo"},{"id":259,"city":"Sumbawa Besar"},{"id":260,"city":"Sumedang"},{"id":261,"city":"Sumenep"},{"id":262,"city":"Sungai Liat"},{"id":263,"city":"Sungai Penuh"},{"id":264,"city":"Sungguminasa"},{"id":265,"city":"Surabaya"},{"id":266,"city":"Surakarta"},{"id":267,"city":"Tabanan"},{"id":268,"city":"Tahuna"},{"id":269,"city":"Takalar"},{"id":270,"city":"Takengon"},{"id":271,"city":"Tamiang Layang"},{"id":272,"city":"Tanah Grogot"},{"id":273,"city":"Tangerang"},{"id":274,"city":"Tanjung Balai"},{"id":275,"city":"Tanjung Enim"},{"id":276,"city":"Tanjung Pandan"},{"id":277,"city":"Tanjung Pinang"},{"id":278,"city":"Tanjung Redep"},{"id":279,"city":"Tanjung Selor"},{"id":280,"city":"Tapak Tuan"},{"id":281,"city":"Tarakan"},{"id":282,"city":"Tarutung"},{"id":283,"city":"Tasikmalaya"},{"id":284,"city":"Tebing Tinggi"},{"id":285,"city":"Tegal"},{"id":286,"city":"Temanggung"},{"id":287,"city":"Tembilahan"},{"id":288,"city":"Tenggarong"},{"id":289,"city":"Ternate"},{"id":290,"city":"Tolitoli"},{"id":291,"city":"Tondano"},{"id":292,"city":"Trenggalek"},{"id":293,"city":"Tual"},{"id":294,"city":"Tuban"},{"id":295,"city":"Tulung Agung"},{"id":296,"city":"Ujung Berung"},{"id":297,"city":"Ungaran"},{"id":298,"city":"Waikabubak"},{"id":299,"city":"Waingapu"},{"id":300,"city":"Wamena"},{"id":301,"city":"Watampone"},{"id":302,"city":"Watansoppeng"},{"id":303,"city":"Wates"},{"id":304,"city":"Wonogiri"},{"id":305,"city":"Wonosari"},{"id":306,"city":"Wonosobo"},{"id":307,"city":"Yogyakarta"}]}
+{
+    "data": [
+        {
+            "id": 1,
+            "city": "Ambarawa",
+            "gmt": "+7",
+            "latitude": "7°16' LS",
+            "longtitude": "110°24' BT",
+            "directionToMecca": "294.57 °",
+            "distanceToMecca": "8328.373 km"
+        },
+        {
+            "id": 2,
+            "city": "Ambon",
+            "gmt": "+9",
+            "latitude": "3°42' LS",
+            "longtitude": "128°9' BT",
+            "directionToMecca": "291.48 °",
+            "distanceToMecca": "9992.242 km"
+        },
+        {
+            "id": 3,
+            "city": "Amlapura",
+            "gmt": "+8",
+            "latitude": "8°27' LS",
+            "longtitude": "115°37' BT",
+            "directionToMecca": "293.63 °",
+            "distanceToMecca": "8907.19 km"
+        },
+        {
+            "id": 4,
+            "city": "Amuntai",
+            "gmt": "+8",
+            "latitude": "2°24' LS",
+            "longtitude": "115°15' BT",
+            "directionToMecca": "292.58 °",
+            "distanceToMecca": "8608.149 km"
+        },
+        {
+            "id": 5,
+            "city": "Argamakmur",
+            "gmt": "+7",
+            "latitude": "3°26' LS",
+            "longtitude": "102°16' BT",
+            "directionToMecca": "295.32 °",
+            "distanceToMecca": "7332.379 km"
+        },
+        {
+            "id": 6,
+            "city": "Atambua",
+            "gmt": "+9",
+            "latitude": "9°6' LS",
+            "longtitude": "124°54' BT",
+            "directionToMecca": "291.92 °",
+            "distanceToMecca": "9877.567 km"
+        },
+        {
+            "id": 7,
+            "city": "Babo",
+            "gmt": "+9",
+            "latitude": "2°30' LS",
+            "longtitude": "133°30' BT",
+            "directionToMecca": "291.31 °",
+            "distanceToMecca": "10498.17 km"
+        },
+        {
+            "id": 8,
+            "city": "Bagan Siapiapi",
+            "gmt": "+7",
+            "latitude": "2°12' LU",
+            "longtitude": "100°50' BT",
+            "directionToMecca": "293.12 °",
+            "distanceToMecca": "6932.019 km"
+        },
+        {
+            "id": 9,
+            "city": "Bajawa",
+            "gmt": "+8",
+            "latitude": "8°47' LS",
+            "longtitude": "120°58' BT",
+            "directionToMecca": "292.6 °",
+            "distanceToMecca": "9463.704 km"
+        },
+        {
+            "id": 10,
+            "city": "Balige",
+            "gmt": "+7",
+            "latitude": "2°20' LU",
+            "longtitude": "99°4' BT",
+            "directionToMecca": "293.36 °",
+            "distanceToMecca": "6745.521 km"
+        },
+        {
+            "id": 11,
+            "city": "Balikpapan",
+            "gmt": "+8",
+            "latitude": "1°17' LS",
+            "longtitude": "116°50' BT",
+            "directionToMecca": "292.18 °",
+            "distanceToMecca": "8724.338 km"
+        },
+        {
+            "id": 12,
+            "city": "Banda Aceh",
+            "gmt": "+7",
+            "latitude": "5°19' LU",
+            "longtitude": "95°21' BT",
+            "directionToMecca": "292.31 °",
+            "distanceToMecca": "6237.25 km"
+        },
+        {
+            "id": 13,
+            "city": "Bandarlampung",
+            "gmt": "+7",
+            "latitude": "5°26' LS",
+            "longtitude": "105°14' BT",
+            "directionToMecca": "295.31 °",
+            "distanceToMecca": "7724.455 km"
+        },
+        {
+            "id": 14,
+            "city": "Bandung",
+            "gmt": "+7",
+            "latitude": "6°57' LS",
+            "longtitude": "107°34' BT",
+            "directionToMecca": "295.19 °",
+            "distanceToMecca": "8029.47 km"
+        },
+        {
+            "id": 15,
+            "city": "Bangkalan",
+            "gmt": "+7",
+            "latitude": "7°2' LS",
+            "longtitude": "112°46' BT",
+            "directionToMecca": "293.98 °",
+            "distanceToMecca": "8556.353 km"
+        },
+        {
+            "id": 16,
+            "city": "Bangkinang",
+            "gmt": "+7",
+            "latitude": "0°18' LU",
+            "longtitude": "101°5' BT",
+            "directionToMecca": "293.97 °",
+            "distanceToMecca": "7041.127 km"
+        },
+        {
+            "id": 17,
+            "city": "Bangko",
+            "gmt": "+7",
+            "latitude": "2°5' LS",
+            "longtitude": "102°9' BT",
+            "directionToMecca": "294.79 °",
+            "distanceToMecca": "7257.691 km"
+        },
+        {
+            "id": 18,
+            "city": "Bangli",
+            "gmt": "+8",
+            "latitude": "8°27' LS",
+            "longtitude": "115°21' BT",
+            "directionToMecca": "293.69 °",
+            "distanceToMecca": "8880.268 km"
+        },
+        {
+            "id": 19,
+            "city": "Banjar",
+            "gmt": "+7",
+            "latitude": "7°22' LS",
+            "longtitude": "108°31' BT",
+            "directionToMecca": "295.06 °",
+            "distanceToMecca": "8144.047 km"
+        },
+        {
+            "id": 20,
+            "city": "Banjar Baru",
+            "gmt": "+8",
+            "latitude": "3°25' LS",
+            "longtitude": "114°50' BT",
+            "directionToMecca": "292.85 °",
+            "distanceToMecca": "8608.619 km"
+        },
+        {
+            "id": 21,
+            "city": "Banjarmasin",
+            "gmt": "+8",
+            "latitude": "3°19' LS",
+            "longtitude": "114°35' BT",
+            "directionToMecca": "292.87 °",
+            "distanceToMecca": "8578.722 km"
+        },
+        {
+            "id": 22,
+            "city": "Banjarnegara",
+            "gmt": "+7",
+            "latitude": "7°24' LS",
+            "longtitude": "109°42' BT",
+            "directionToMecca": "294.78 °",
+            "distanceToMecca": "8264.195 km"
+        },
+        {
+            "id": 23,
+            "city": "Bantaeng",
+            "gmt": "+8",
+            "latitude": "5°32' LS",
+            "longtitude": "119°56' BT",
+            "directionToMecca": "292.45 °",
+            "distanceToMecca": "9221.082 km"
+        },
+        {
+            "id": 24,
+            "city": "Banten",
+            "gmt": "+7",
+            "latitude": "6°3' LS",
+            "longtitude": "106°11' BT",
+            "directionToMecca": "295.27 °",
+            "distanceToMecca": "7848.691 km"
+        },
+        {
+            "id": 25,
+            "city": "Bantul",
+            "gmt": "+7",
+            "latitude": "7°33' LS",
+            "longtitude": "110°11' BT",
+            "directionToMecca": "294.7 °",
+            "distanceToMecca": "8319.607 km"
+        },
+        {
+            "id": 26,
+            "city": "Banyuwangi",
+            "gmt": "+7",
+            "latitude": "8°13' LS",
+            "longtitude": "114°50' BT",
+            "directionToMecca": "293.76 °",
+            "distanceToMecca": "8817.785 km"
+        },
+        {
+            "id": 27,
+            "city": "Barabai",
+            "gmt": "+8",
+            "latitude": "2°32' LS",
+            "longtitude": "115°34' BT",
+            "directionToMecca": "292.57 °",
+            "distanceToMecca": "8646.329 km"
+        },
+        {
+            "id": 28,
+            "city": "Barito",
+            "gmt": "+8",
+            "latitude": "4°0' LS",
+            "longtitude": "114°50' BT",
+            "directionToMecca": "292.97 °",
+            "distanceToMecca": "8633.621 km"
+        },
+        {
+            "id": 29,
+            "city": "Barru",
+            "gmt": "+8",
+            "latitude": "4°24' LS",
+            "longtitude": "119°36' BT",
+            "directionToMecca": "292.36 °",
+            "distanceToMecca": "9139.314 km"
+        },
+        {
+            "id": 30,
+            "city": "Batam",
+            "gmt": "+7",
+            "latitude": "1°8' LU",
+            "longtitude": "104°3' BT",
+            "directionToMecca": "293.08 °",
+            "distanceToMecca": "7307.572 km"
+        },
+        {
+            "id": 31,
+            "city": "Batang",
+            "gmt": "+7",
+            "latitude": "6°55' LS",
+            "longtitude": "109°45' BT",
+            "directionToMecca": "294.64 °",
+            "distanceToMecca": "8246.981 km"
+        },
+        {
+            "id": 32,
+            "city": "Batu",
+            "gmt": "+7",
+            "latitude": "7°52' LS",
+            "longtitude": "112°32' BT",
+            "directionToMecca": "294.21 °",
+            "distanceToMecca": "8570.266 km"
+        },
+        {
+            "id": 33,
+            "city": "Baturaja",
+            "gmt": "+7",
+            "latitude": "4°8' LS",
+            "longtitude": "104°8' BT",
+            "directionToMecca": "295.12 °",
+            "distanceToMecca": "7552.98 km"
+        },
+        {
+            "id": 34,
+            "city": "Batusangkar",
+            "gmt": "+7",
+            "latitude": "0°26' LS",
+            "longtitude": "100°36' BT",
+            "directionToMecca": "294.01 °",
+            "distanceToMecca": "6985.961 km"
+        },
+        {
+            "id": 35,
+            "city": "Baubau",
+            "gmt": "+8",
+            "latitude": "5°25' LS",
+            "longtitude": "122°38' BT",
+            "directionToMecca": "292.08 °",
+            "distanceToMecca": "9493.318 km"
+        },
+        {
+            "id": 36,
+            "city": "Bekasi",
+            "gmt": "+7",
+            "latitude": "6°14' LS",
+            "longtitude": "106°59' BT",
+            "directionToMecca": "295.12 °",
+            "distanceToMecca": "7937.487 km"
+        },
+        {
+            "id": 37,
+            "city": "Bengkalis",
+            "gmt": "+7",
+            "latitude": "1°33' LU",
+            "longtitude": "102°5' BT",
+            "directionToMecca": "293.22 °",
+            "distanceToMecca": "7088.135 km"
+        },
+        {
+            "id": 38,
+            "city": "Bengkulu",
+            "gmt": "+7",
+            "latitude": "3°49' LS",
+            "longtitude": "102°19' BT",
+            "directionToMecca": "295.46 °",
+            "distanceToMecca": "7355.492 km"
+        },
+        {
+            "id": 39,
+            "city": "Benteng",
+            "gmt": "+9",
+            "latitude": "6°10' LS",
+            "longtitude": "120°30' BT",
+            "directionToMecca": "292.44 °",
+            "distanceToMecca": "9305.748 km"
+        },
+        {
+            "id": 40,
+            "city": "Biak",
+            "gmt": "+9",
+            "latitude": "1°10' LS",
+            "longtitude": "136°6' BT",
+            "directionToMecca": "291.43 °",
+            "distanceToMecca": "10714.176 km"
+        },
+        {
+            "id": 41,
+            "city": "Bima",
+            "gmt": "+8",
+            "latitude": "8°22' LS",
+            "longtitude": "118°49' BT",
+            "directionToMecca": "292.97 °",
+            "distanceToMecca": "9227.547 km"
+        },
+        {
+            "id": 42,
+            "city": "Binjai",
+            "gmt": "+7",
+            "latitude": "3°20' LU",
+            "longtitude": "98°30' BT",
+            "directionToMecca": "292.94 °",
+            "distanceToMecca": "6644.255 km"
+        },
+        {
+            "id": 43,
+            "city": "Bireuen",
+            "gmt": "+7",
+            "latitude": "5°14' LU",
+            "longtitude": "96°39' BT",
+            "directionToMecca": "292.16 °",
+            "distanceToMecca": "6374.207 km"
+        },
+        {
+            "id": 44,
+            "city": "Bitung",
+            "gmt": "+9",
+            "latitude": "1°26' LU",
+            "longtitude": "125°9' BT",
+            "directionToMecca": "291.38 °",
+            "distanceToMecca": "9474.332 km"
+        },
+        {
+            "id": 45,
+            "city": "Blitar",
+            "gmt": "+7",
+            "latitude": "8°6' LS",
+            "longtitude": "112°10' BT",
+            "directionToMecca": "294.35 °",
+            "distanceToMecca": "8543.94 km"
+        },
+        {
+            "id": 46,
+            "city": "Blora",
+            "gmt": "+7",
+            "latitude": "6°58' LS",
+            "longtitude": "111°25' BT",
+            "directionToMecca": "294.27 °",
+            "distanceToMecca": "8417.085 km"
+        },
+        {
+            "id": 47,
+            "city": "Bogor",
+            "gmt": "+7",
+            "latitude": "6°36' LS",
+            "longtitude": "106°48' BT",
+            "directionToMecca": "295.28 °",
+            "distanceToMecca": "7936.302 km"
+        },
+        {
+            "id": 48,
+            "city": "Bojonegoro",
+            "gmt": "+7",
+            "latitude": "7°9' LS",
+            "longtitude": "111°53' BT",
+            "directionToMecca": "294.2 °",
+            "distanceToMecca": "8472.427 km"
+        },
+        {
+            "id": 49,
+            "city": "Bondowoso",
+            "gmt": "+7",
+            "latitude": "7°55' LS",
+            "longtitude": "113°49' BT",
+            "directionToMecca": "293.93 °",
+            "distanceToMecca": "8701.844 km"
+        },
+        {
+            "id": 50,
+            "city": "Bontang",
+            "gmt": "+8",
+            "latitude": "0°4' LU",
+            "longtitude": "117°30' BT",
+            "directionToMecca": "291.87 °",
+            "distanceToMecca": "8737.409 km"
+        },
+        {
+            "id": 51,
+            "city": "Boyolali",
+            "gmt": "+7",
+            "latitude": "7°32' LS",
+            "longtitude": "110°35' BT",
+            "directionToMecca": "294.6 °",
+            "distanceToMecca": "8359.006 km"
+        },
+        {
+            "id": 52,
+            "city": "Brebes",
+            "gmt": "+7",
+            "latitude": "6°52' LS",
+            "longtitude": "109°3' BT",
+            "directionToMecca": "294.8 °",
+            "distanceToMecca": "8174.333 km"
+        },
+        {
+            "id": 53,
+            "city": "Bukit Tinggi",
+            "gmt": "+7",
+            "latitude": "0°17' LS",
+            "longtitude": "100°26' BT",
+            "directionToMecca": "294.11 °",
+            "distanceToMecca": "6975.737 km"
+        },
+        {
+            "id": 54,
+            "city": "Bulukumba",
+            "gmt": "+8",
+            "latitude": "5°31' LS",
+            "longtitude": "120°15' BT",
+            "directionToMecca": "292.41 °",
+            "distanceToMecca": "9252.84 km"
+        },
+        {
+            "id": 55,
+            "city": "Buntok",
+            "gmt": "+7",
+            "latitude": "1°44' LS",
+            "longtitude": "114°49' BT",
+            "directionToMecca": "292.5 °",
+            "distanceToMecca": "8535.451 km"
+        },
+        {
+            "id": 56,
+            "city": "Cepu",
+            "gmt": "+7",
+            "latitude": "7°9' LS",
+            "longtitude": "111°35' BT",
+            "directionToMecca": "294.27 °",
+            "distanceToMecca": "8442.181 km"
+        },
+        {
+            "id": 57,
+            "city": "Ciamis",
+            "gmt": "+7",
+            "latitude": "7°20' LS",
+            "longtitude": "108°21' BT",
+            "directionToMecca": "295.1 °",
+            "distanceToMecca": "8125.808 km"
+        },
+        {
+            "id": 58,
+            "city": "Cianjur",
+            "gmt": "+7",
+            "latitude": "6°49' LS",
+            "longtitude": "107°8' BT",
+            "directionToMecca": "295.26 °",
+            "distanceToMecca": "7979.845 km"
+        },
+        {
+            "id": 59,
+            "city": "Cibinong",
+            "gmt": "+7",
+            "latitude": "6°24' LS",
+            "longtitude": "106°41' BT",
+            "directionToMecca": "295.25 °",
+            "distanceToMecca": "7915.224 km"
+        },
+        {
+            "id": 60,
+            "city": "Cilacap",
+            "gmt": "+7",
+            "latitude": "7°44' LS",
+            "longtitude": "109°0' BT",
+            "directionToMecca": "295.04 °",
+            "distanceToMecca": "8209.508 km"
+        },
+        {
+            "id": 61,
+            "city": "Cilegon",
+            "gmt": "+7",
+            "latitude": "6°1' LS",
+            "longtitude": "106°3' BT",
+            "directionToMecca": "295.29 °",
+            "distanceToMecca": "7833.763 km"
+        },
+        {
+            "id": 62,
+            "city": "Cimahi",
+            "gmt": "+7",
+            "latitude": "6°52' LS",
+            "longtitude": "107°33' BT",
+            "directionToMecca": "295.17 °",
+            "distanceToMecca": "8023.899 km"
+        },
+        {
+            "id": 63,
+            "city": "Cirebon",
+            "gmt": "+7",
+            "latitude": "6°44' LS",
+            "longtitude": "107°35' BT",
+            "directionToMecca": "295.12 °",
+            "distanceToMecca": "8021.003 km"
+        },
+        {
+            "id": 64,
+            "city": "Curup",
+            "gmt": "+7",
+            "latitude": "3°28' LS",
+            "longtitude": "102°31' BT",
+            "directionToMecca": "295.27 °",
+            "distanceToMecca": "7359.09 km"
+        },
+        {
+            "id": 65,
+            "city": "Demak",
+            "gmt": "+7",
+            "latitude": "6°53' LS",
+            "longtitude": "110°40' BT",
+            "directionToMecca": "294.42 °",
+            "distanceToMecca": "8337.715 km"
+        },
+        {
+            "id": 66,
+            "city": "Denpasar",
+            "gmt": "+8",
+            "latitude": "8°39' LS",
+            "longtitude": "115°13' BT",
+            "directionToMecca": "293.75 °",
+            "distanceToMecca": "8875.671 km"
+        },
+        {
+            "id": 67,
+            "city": "Depok",
+            "gmt": "+7",
+            "latitude": "6°24' LS",
+            "longtitude": "106°49' BT",
+            "directionToMecca": "295.22 °",
+            "distanceToMecca": "7928.581 km"
+        },
+        {
+            "id": 68,
+            "city": "Dili",
+            "gmt": "+9",
+            "latitude": "8°34' LS",
+            "longtitude": "125°35' BT",
+            "directionToMecca": "291.81 °",
+            "distanceToMecca": "9925.522 km"
+        },
+        {
+            "id": 69,
+            "city": "Dompu",
+            "gmt": "+8",
+            "latitude": "8°32' LS",
+            "longtitude": "118°28' BT",
+            "directionToMecca": "293.05 °",
+            "distanceToMecca": "9199.211 km"
+        },
+        {
+            "id": 70,
+            "city": "Donggala",
+            "gmt": "+8",
+            "latitude": "0°43' LS",
+            "longtitude": "119°41' BT",
+            "directionToMecca": "291.62 °",
+            "distanceToMecca": "8936.771 km"
+        },
+        {
+            "id": 71,
+            "city": "Dumai",
+            "gmt": "+7",
+            "latitude": "1°46' LU",
+            "longtitude": "101°22' BT",
+            "directionToMecca": "293.24 °",
+            "distanceToMecca": "7005.387 km"
+        },
+        {
+            "id": 72,
+            "city": "Ende",
+            "gmt": "+8",
+            "latitude": "8°51' LS",
+            "longtitude": "121°39' BT",
+            "directionToMecca": "292.48 °",
+            "distanceToMecca": "9536.008 km"
+        },
+        {
+            "id": 73,
+            "city": "Enggano",
+            "gmt": "+7",
+            "latitude": "5°20' LS",
+            "longtitude": "102°40' BT",
+            "directionToMecca": "295.95 °",
+            "distanceToMecca": "7462.936 km"
+        },
+        {
+            "id": 74,
+            "city": "Enrekang",
+            "gmt": "+8",
+            "latitude": "3°34' LS",
+            "longtitude": "119°46' BT",
+            "directionToMecca": "292.23 °",
+            "distanceToMecca": "9121.638 km"
+        },
+        {
+            "id": 75,
+            "city": "Fakfak",
+            "gmt": "+9",
+            "latitude": "2°51' LS",
+            "longtitude": "132°21' BT",
+            "directionToMecca": "291.31 °",
+            "distanceToMecca": "10392.99 km"
+        },
+        {
+            "id": 76,
+            "city": "Garut",
+            "gmt": "+7",
+            "latitude": "7°14' LS",
+            "longtitude": "107°53' BT",
+            "directionToMecca": "295.19 °",
+            "distanceToMecca": "8074.432 km"
+        },
+        {
+            "id": 77,
+            "city": "Gianyar",
+            "gmt": "+8",
+            "latitude": "8°32' LS",
+            "longtitude": "115°20' BT",
+            "directionToMecca": "293.71 °",
+            "distanceToMecca": "8882.272 km"
+        },
+        {
+            "id": 78,
+            "city": "Gombong",
+            "gmt": "+7",
+            "latitude": "7°36' LS",
+            "longtitude": "109°31' BT",
+            "directionToMecca": "294.87 °",
+            "distanceToMecca": "8255.053 km"
+        },
+        {
+            "id": 79,
+            "city": "Gorontalo",
+            "gmt": "+8",
+            "latitude": "0°32' LU",
+            "longtitude": "123°4' BT",
+            "directionToMecca": "291.5 °",
+            "distanceToMecca": "9294.643 km"
+        },
+        {
+            "id": 80,
+            "city": "Gresik",
+            "gmt": "+7",
+            "latitude": "7°13' LS",
+            "longtitude": "112°38' BT",
+            "directionToMecca": "294.05 °",
+            "distanceToMecca": "8551.1 km"
+        },
+        {
+            "id": 81,
+            "city": "Gunung Sitoli",
+            "gmt": "+7",
+            "latitude": "1°16' LU",
+            "longtitude": "97°37' BT",
+            "directionToMecca": "294.21 °",
+            "distanceToMecca": "6645.127 km"
+        },
+        {
+            "id": 82,
+            "city": "Indramayu",
+            "gmt": "+7",
+            "latitude": "6°20' LS",
+            "longtitude": "108°19' BT",
+            "directionToMecca": "294.83 °",
+            "distanceToMecca": "8076.016 km"
+        },
+        {
+            "id": 83,
+            "city": "Jambi",
+            "gmt": "+7",
+            "latitude": "1°37' LS",
+            "longtitude": "103°34' BT",
+            "directionToMecca": "294.29 °",
+            "distanceToMecca": "7379.881 km"
+        },
+        {
+            "id": 84,
+            "city": "Jayapura",
+            "gmt": "+9",
+            "latitude": "0°32' LS",
+            "longtitude": "140°27' BT",
+            "directionToMecca": "291.85 °",
+            "distanceToMecca": "11095.45 km"
+        },
+        {
+            "id": 85,
+            "city": "Jember",
+            "gmt": "+7",
+            "latitude": "8°10' LS",
+            "longtitude": "113°41' BT",
+            "directionToMecca": "294.01 °",
+            "distanceToMecca": "8699.58 km"
+        },
+        {
+            "id": 86,
+            "city": "Jeneponto",
+            "gmt": "+8",
+            "latitude": "5°41' LS",
+            "longtitude": "119°45' BT",
+            "directionToMecca": "292.5 °",
+            "distanceToMecca": "9208.612 km"
+        },
+        {
+            "id": 87,
+            "city": "Jepara",
+            "gmt": "+7",
+            "latitude": "6°36' LS",
+            "longtitude": "110°40' BT",
+            "directionToMecca": "294.35 °",
+            "distanceToMecca": "8324.841 km"
+        },
+        {
+            "id": 88,
+            "city": "Jombang",
+            "gmt": "+7",
+            "latitude": "7°33' LS",
+            "longtitude": "112°14' BT",
+            "directionToMecca": "294.21 °",
+            "distanceToMecca": "8525.759 km"
+        },
+        {
+            "id": 89,
+            "city": "Kabanjahe",
+            "gmt": "+7",
+            "latitude": "3°6' LU",
+            "longtitude": "98°30' BT",
+            "directionToMecca": "293.06 °",
+            "distanceToMecca": "6654.293 km"
+        },
+        {
+            "id": 90,
+            "city": "Kalabahi",
+            "gmt": "+8",
+            "latitude": "8°13' LS",
+            "longtitude": "124°31' BT",
+            "directionToMecca": "291.96 °",
+            "distanceToMecca": "9802.067 km"
+        },
+        {
+            "id": 91,
+            "city": "Kalianda",
+            "gmt": "+7",
+            "latitude": "5°50' LS",
+            "longtitude": "105°45' BT",
+            "directionToMecca": "295.31 °",
+            "distanceToMecca": "7795.076 km"
+        },
+        {
+            "id": 92,
+            "city": "Kandangan",
+            "gmt": "+8",
+            "latitude": "4°3' LS",
+            "longtitude": "114°40' BT",
+            "directionToMecca": "293.01 °",
+            "distanceToMecca": "8618.72 km"
+        },
+        {
+            "id": 93,
+            "city": "Karanganyar",
+            "gmt": "+7",
+            "latitude": "7°36' LS",
+            "longtitude": "110°56' BT",
+            "directionToMecca": "294.53 °",
+            "distanceToMecca": "8397.221 km"
+        },
+        {
+            "id": 94,
+            "city": "Karawang",
+            "gmt": "+7",
+            "latitude": "6°18' LS",
+            "longtitude": "107°17' BT",
+            "directionToMecca": "295.07 °",
+            "distanceToMecca": "7970.694 km"
+        },
+        {
+            "id": 95,
+            "city": "Kasungan",
+            "gmt": "+8",
+            "latitude": "1°58' LS",
+            "longtitude": "113°24' BT",
+            "directionToMecca": "292.73 °",
+            "distanceToMecca": "8399.721 km"
+        },
+        {
+            "id": 96,
+            "city": "Kayuagung",
+            "gmt": "+7",
+            "latitude": "3°24' LS",
+            "longtitude": "104°50' BT",
+            "directionToMecca": "294.69 °",
+            "distanceToMecca": "7589.581 km"
+        },
+        {
+            "id": 97,
+            "city": "Kebumen",
+            "gmt": "+7",
+            "latitude": "7°40' LS",
+            "longtitude": "109°40' BT",
+            "directionToMecca": "294.85 °",
+            "distanceToMecca": "8273.17 km"
+        },
+        {
+            "id": 98,
+            "city": "Kediri",
+            "gmt": "+7",
+            "latitude": "7°49' LS",
+            "longtitude": "112°1' BT",
+            "directionToMecca": "294.32 °",
+            "distanceToMecca": "8516.007 km"
+        },
+        {
+            "id": 99,
+            "city": "Kefamenanu",
+            "gmt": "+8",
+            "latitude": "9°26' LS",
+            "longtitude": "124°28' BT",
+            "directionToMecca": "292 °",
+            "distanceToMecca": "9847.098 km"
+        },
+        {
+            "id": 100,
+            "city": "Kendal",
+            "gmt": "+7",
+            "latitude": "6°55' LS",
+            "longtitude": "110°12' BT",
+            "directionToMecca": "294.54 °",
+            "distanceToMecca": "8292.248 km"
+        },
+        {
+            "id": 101,
+            "city": "Kendari",
+            "gmt": "+8",
+            "latitude": "3°57' LS",
+            "longtitude": "122°34' BT",
+            "directionToMecca": "291.97 °",
+            "distanceToMecca": "9425.892 km"
+        },
+        {
+            "id": 102,
+            "city": "Kertosono",
+            "gmt": "+7",
+            "latitude": "7°35' LS",
+            "longtitude": "112°6' BT",
+            "directionToMecca": "294.25 °",
+            "distanceToMecca": "8513.834 km"
+        },
+        {
+            "id": 103,
+            "city": "Ketapang",
+            "gmt": "+7",
+            "latitude": "1°45' LS",
+            "longtitude": "109°54' BT",
+            "directionToMecca": "293.18 °",
+            "distanceToMecca": "8031.559 km"
+        },
+        {
+            "id": 104,
+            "city": "Kisaran",
+            "gmt": "+7",
+            "latitude": "2°59' LU",
+            "longtitude": "99°37' BT",
+            "directionToMecca": "292.93 °",
+            "distanceToMecca": "6773.665 km"
+        },
+        {
+            "id": 105,
+            "city": "Klaten",
+            "gmt": "+7",
+            "latitude": "7°42' LS",
+            "longtitude": "110°36' BT",
+            "directionToMecca": "294.63 °",
+            "distanceToMecca": "8368.32 km"
+        },
+        {
+            "id": 106,
+            "city": "Kolaka",
+            "gmt": "+8",
+            "latitude": "4°2' LS",
+            "longtitude": "121°35' BT",
+            "directionToMecca": "292.08 °",
+            "distanceToMecca": "9328.033 km"
+        },
+        {
+            "id": 107,
+            "city": "Kota Baru Pulau Laut",
+            "gmt": "+8",
+            "latitude": "3°16' LS",
+            "longtitude": "116°12' BT",
+            "directionToMecca": "292.63 °",
+            "distanceToMecca": "8742.414 km"
+        },
+        {
+            "id": 108,
+            "city": "Kota Bumi",
+            "gmt": "+7",
+            "latitude": "4°51' LS",
+            "longtitude": "104°51' BT",
+            "directionToMecca": "295.2 °",
+            "distanceToMecca": "7658.582 km"
+        },
+        {
+            "id": 109,
+            "city": "Kota Jantho",
+            "gmt": "+7",
+            "latitude": "5°18' LU",
+            "longtitude": "95°38' BT",
+            "directionToMecca": "292.27 °",
+            "distanceToMecca": "6267.025 km"
+        },
+        {
+            "id": 110,
+            "city": "Kotamobagu",
+            "gmt": "+8",
+            "latitude": "0°43' LU",
+            "longtitude": "124°17' BT",
+            "directionToMecca": "291.45 °",
+            "distanceToMecca": "9413.335 km"
+        },
+        {
+            "id": 111,
+            "city": "Kuala Kapuas",
+            "gmt": "+7",
+            "latitude": "3°6' LS",
+            "longtitude": "114°21' BT",
+            "directionToMecca": "292.86 °",
+            "distanceToMecca": "8545.539 km"
+        },
+        {
+            "id": 112,
+            "city": "Kuala Kurun",
+            "gmt": "+7",
+            "latitude": "1°7' LS",
+            "longtitude": "113°53' BT",
+            "directionToMecca": "292.47 °",
+            "distanceToMecca": "8413.444 km"
+        },
+        {
+            "id": 113,
+            "city": "Kuala Pembuang",
+            "gmt": "+7",
+            "latitude": "3°25' LS",
+            "longtitude": "112°33' BT",
+            "directionToMecca": "293.2 °",
+            "distanceToMecca": "8374.92 km"
+        },
+        {
+            "id": 114,
+            "city": "Kuala Tungkal",
+            "gmt": "+7",
+            "latitude": "0°49' LS",
+            "longtitude": "103°28' BT",
+            "directionToMecca": "293.31 °",
+            "distanceToMecca": "7261.576 km"
+        },
+        {
+            "id": 115,
+            "city": "Kudus",
+            "gmt": "+7",
+            "latitude": "6°48' LS",
+            "longtitude": "110°50' BT",
+            "directionToMecca": "294.36 °",
+            "distanceToMecca": "8350.722 km"
+        },
+        {
+            "id": 116,
+            "city": "Kuningan",
+            "gmt": "+7",
+            "latitude": "6°58' LS",
+            "longtitude": "108°29' BT",
+            "directionToMecca": "294.96 °",
+            "distanceToMecca": "8122.092 km"
+        },
+        {
+            "id": 117,
+            "city": "Kupang",
+            "gmt": "+8",
+            "latitude": "10°9' LS",
+            "longtitude": "123°34' BT",
+            "directionToMecca": "292.19 °",
+            "distanceToMecca": "9785.206 km"
+        },
+        {
+            "id": 118,
+            "city": "Kutacane",
+            "gmt": "+7",
+            "latitude": "3°30' LU",
+            "longtitude": "97°48' BT",
+            "directionToMecca": "292.96 °",
+            "distanceToMecca": "6565.416 km"
+        },
+        {
+            "id": 119,
+            "city": "Kutoarjo",
+            "gmt": "+7",
+            "latitude": "7°43' LS",
+            "longtitude": "109°54' BT",
+            "directionToMecca": "294.81 °",
+            "distanceToMecca": "8298.867 km"
+        },
+        {
+            "id": 120,
+            "city": "Labuhan",
+            "gmt": "+7",
+            "latitude": "6°23' LS",
+            "longtitude": "105°50' BT",
+            "directionToMecca": "295.47 °",
+            "distanceToMecca": "7829.372 km"
+        },
+        {
+            "id": 121,
+            "city": "Lahat",
+            "gmt": "+7",
+            "latitude": "3°49' LS",
+            "longtitude": "103°31' BT",
+            "directionToMecca": "295.16 °",
+            "distanceToMecca": "7476.114 km"
+        },
+        {
+            "id": 122,
+            "city": "Lamongan",
+            "gmt": "+7",
+            "latitude": "7°7' LS",
+            "longtitude": "112°25' BT",
+            "directionToMecca": "294.08 °",
+            "distanceToMecca": "8524.739 km"
+        },
+        {
+            "id": 123,
+            "city": "Langsa",
+            "gmt": "+7",
+            "latitude": "4°26' LU",
+            "longtitude": "97°58' BT",
+            "directionToMecca": "292.42 °",
+            "distanceToMecca": "6542.855 km"
+        },
+        {
+            "id": 124,
+            "city": "Larantuka",
+            "gmt": "+",
+            "latitude": "8°21' LS",
+            "longtitude": "122°55' BT",
+            "directionToMecca": "292.23 °",
+            "distanceToMecca": "9644.139 km"
+        },
+        {
+            "id": 125,
+            "city": "Lawang",
+            "gmt": "+7",
+            "latitude": "7°50' LS",
+            "longtitude": "112°42' BT",
+            "directionToMecca": "294.17 °",
+            "distanceToMecca": "8585.546 km"
+        },
+        {
+            "id": 126,
+            "city": "Lhoseumawe",
+            "gmt": "+7",
+            "latitude": "5°11' LU",
+            "longtitude": "97°9' BT",
+            "directionToMecca": "292.11 °",
+            "distanceToMecca": "6427.662 km"
+        },
+        {
+            "id": 127,
+            "city": "Limboto",
+            "gmt": "+8",
+            "latitude": "0°38' LU",
+            "longtitude": "122°58' BT",
+            "directionToMecca": "291.5 °",
+            "distanceToMecca": "9280.242 km"
+        },
+        {
+            "id": 128,
+            "city": "Lubuk Basung",
+            "gmt": "+7",
+            "latitude": "0°20' LS",
+            "longtitude": "100°4' BT",
+            "directionToMecca": "294.16 °",
+            "distanceToMecca": "6936.206 km"
+        },
+        {
+            "id": 129,
+            "city": "Lubuk Linggau",
+            "gmt": "+7",
+            "latitude": "3°15' LS",
+            "longtitude": "102°55' BT",
+            "directionToMecca": "295.08 °",
+            "distanceToMecca": "7389.216 km"
+        },
+        {
+            "id": 130,
+            "city": "Lubuk Pakam",
+            "gmt": "+7",
+            "latitude": "3°33' LU",
+            "longtitude": "98°52' BT",
+            "directionToMecca": "292.76 °",
+            "distanceToMecca": "6672.565 km"
+        },
+        {
+            "id": 131,
+            "city": "Lubuk Sikaping",
+            "gmt": "+7",
+            "latitude": "0°9' LU",
+            "longtitude": "100°11' BT",
+            "directionToMecca": "294.23 °",
+            "distanceToMecca": "6956.334 km"
+        },
+        {
+            "id": 132,
+            "city": "Lumajang",
+            "gmt": "+7",
+            "latitude": "8°8' LS",
+            "longtitude": "113°13' BT",
+            "directionToMecca": "294.11 °",
+            "distanceToMecca": "8651.079 km"
+        },
+        {
+            "id": 133,
+            "city": "Luwuk",
+            "gmt": "+8",
+            "latitude": "0°57' LS",
+            "longtitude": "122°48' BT",
+            "directionToMecca": "291.47 °",
+            "distanceToMecca": "9250.189 km"
+        },
+        {
+            "id": 134,
+            "city": "Madiun",
+            "gmt": "+7",
+            "latitude": "7°38' LS",
+            "longtitude": "111°31' BT",
+            "directionToMecca": "294.4 °",
+            "distanceToMecca": "8457.388 km"
+        },
+        {
+            "id": 135,
+            "city": "Magelang",
+            "gmt": "+7",
+            "latitude": "7°28' LS",
+            "longtitude": "110°13' BT",
+            "directionToMecca": "294.67 °",
+            "distanceToMecca": "8319.124 km"
+        },
+        {
+            "id": 136,
+            "city": "Magetan",
+            "gmt": "+7",
+            "latitude": "7°39' LS",
+            "longtitude": "111°20' BT",
+            "directionToMecca": "294.44 °",
+            "distanceToMecca": "8439.709 km"
+        },
+        {
+            "id": 137,
+            "city": "Majalengka",
+            "gmt": "+7",
+            "latitude": "6°50' LS",
+            "longtitude": "108°13' BT",
+            "directionToMecca": "294.99 °",
+            "distanceToMecca": "8089.153 km"
+        },
+        {
+            "id": 138,
+            "city": "Majene",
+            "gmt": "+8",
+            "latitude": "3°32' LS",
+            "longtitude": "118°58' BT",
+            "directionToMecca": "292.32 °",
+            "distanceToMecca": "9037.937 km"
+        },
+        {
+            "id": 139,
+            "city": "Makale",
+            "gmt": "+8",
+            "latitude": "3°7' LS",
+            "longtitude": "119°50' BT",
+            "directionToMecca": "292.17 °",
+            "distanceToMecca": "9109.779 km"
+        },
+        {
+            "id": 140,
+            "city": "Makassar",
+            "gmt": "+8",
+            "latitude": "5°9' LS",
+            "longtitude": "119°28' BT",
+            "directionToMecca": "292.47 °",
+            "distanceToMecca": "9157.12 km"
+        },
+        {
+            "id": 141,
+            "city": "Malang",
+            "gmt": "+7",
+            "latitude": "7°59' LS",
+            "longtitude": "112°45' BT",
+            "directionToMecca": "294.19 °",
+            "distanceToMecca": "8597.342 km"
+        },
+        {
+            "id": 142,
+            "city": "Mamuju",
+            "gmt": "+8",
+            "latitude": "2°41' LS",
+            "longtitude": "118°55' BT",
+            "directionToMecca": "292.2 °",
+            "distanceToMecca": "8997.327 km"
+        },
+        {
+            "id": 143,
+            "city": "Manna",
+            "gmt": "+7",
+            "latitude": "4°25' LS",
+            "longtitude": "102°55' BT",
+            "directionToMecca": "295.54 °",
+            "distanceToMecca": "7444.115 km"
+        },
+        {
+            "id": 144,
+            "city": "Manokwari",
+            "gmt": "+9",
+            "latitude": "0°52' LS",
+            "longtitude": "134°4' BT",
+            "directionToMecca": "291.53 °",
+            "distanceToMecca": "10421.339 km"
+        },
+        {
+            "id": 145,
+            "city": "Marabahan",
+            "gmt": "+8",
+            "latitude": "3°0' LS",
+            "longtitude": "114°45' BT",
+            "directionToMecca": "292.78 °",
+            "distanceToMecca": "8582.286 km"
+        },
+        {
+            "id": 146,
+            "city": "Maros",
+            "gmt": "+8",
+            "latitude": "5°0' LS",
+            "longtitude": "119°35' BT",
+            "directionToMecca": "292.44 °",
+            "distanceToMecca": "9162.777 km"
+        },
+        {
+            "id": 147,
+            "city": "Martapura Kalsel",
+            "gmt": "+8",
+            "latitude": "3°25' LS",
+            "longtitude": "114°50' BT",
+            "directionToMecca": "292.85 °",
+            "distanceToMecca": "8608.619 km"
+        },
+        {
+            "id": 148,
+            "city": "Masohi",
+            "gmt": "+9",
+            "latitude": "3°16' LS",
+            "longtitude": "128°56' BT",
+            "directionToMecca": "291.44 °",
+            "distanceToMecca": "10055.827 km"
+        },
+        {
+            "id": 149,
+            "city": "Mataram",
+            "gmt": "+8",
+            "latitude": "8°35' LS",
+            "longtitude": "116°8' BT",
+            "directionToMecca": "293.54 °",
+            "distanceToMecca": "8965.242 km"
+        },
+        {
+            "id": 150,
+            "city": "Maumere",
+            "gmt": "+8",
+            "latitude": "8°37' LS",
+            "longtitude": "122°12' BT",
+            "directionToMecca": "292.36 °",
+            "distanceToMecca": "9582.204 km"
+        },
+        {
+            "id": 151,
+            "city": "Medan",
+            "gmt": "+7",
+            "latitude": "3°35' LU",
+            "longtitude": "98°39' BT",
+            "directionToMecca": "292.78 °",
+            "distanceToMecca": "6648.932 km"
+        },
+        {
+            "id": 152,
+            "city": "Mempawah",
+            "gmt": "+7",
+            "latitude": "0°22' LU",
+            "longtitude": "108°57' BT",
+            "directionToMecca": "292.66 °",
+            "distanceToMecca": "7843.303 km"
+        },
+        {
+            "id": 153,
+            "city": "Menado",
+            "gmt": "+8",
+            "latitude": "1°29' LU",
+            "longtitude": "124°52' BT",
+            "directionToMecca": "291.38 °",
+            "distanceToMecca": "9442.949 km"
+        },
+        {
+            "id": 154,
+            "city": "Mentok",
+            "gmt": "+7",
+            "latitude": "2°4' LS",
+            "longtitude": "105°11' BT",
+            "directionToMecca": "294.13 °",
+            "distanceToMecca": "7564.397 km"
+        },
+        {
+            "id": 155,
+            "city": "Merauke",
+            "gmt": "+9",
+            "latitude": "8°26' LS",
+            "longtitude": "140°22' BT",
+            "directionToMecca": "290.18 °",
+            "distanceToMecca": "11441.972 km"
+        },
+        {
+            "id": 156,
+            "city": "Metro",
+            "gmt": "+7",
+            "latitude": "5°7' LS",
+            "longtitude": "105°16' BT",
+            "directionToMecca": "295.19 °",
+            "distanceToMecca": "7712.933 km"
+        },
+        {
+            "id": 157,
+            "city": "Meulaboh",
+            "gmt": "+7",
+            "latitude": "4°8' LU",
+            "longtitude": "96°7' BT",
+            "directionToMecca": "292.9 °",
+            "distanceToMecca": "6365.918 km"
+        },
+        {
+            "id": 158,
+            "city": "Mojokerto",
+            "gmt": "+7",
+            "latitude": "7°28' LS",
+            "longtitude": "112°25' BT",
+            "directionToMecca": "294.15 °",
+            "distanceToMecca": "8540.478 km"
+        },
+        {
+            "id": 159,
+            "city": "Muara Bulian",
+            "gmt": "+7",
+            "latitude": "1°43' LS",
+            "longtitude": "103°15' BT",
+            "directionToMecca": "294.39 °",
+            "distanceToMecca": "7352.285 km"
+        },
+        {
+            "id": 160,
+            "city": "Muara Bungo",
+            "gmt": "+7",
+            "latitude": "1°28' LS",
+            "longtitude": "102°52' BT",
+            "directionToMecca": "294.37 °",
+            "distanceToMecca": "7302.037 km"
+        },
+        {
+            "id": 161,
+            "city": "Muara Enim",
+            "gmt": "+7",
+            "latitude": "3°40' LS",
+            "longtitude": "103°47' BT",
+            "directionToMecca": "295.03 °",
+            "distanceToMecca": "7495.965 km"
+        },
+        {
+            "id": 162,
+            "city": "Muara Teweh",
+            "gmt": "+7",
+            "latitude": "0°56' LS",
+            "longtitude": "114°53' BT",
+            "directionToMecca": "291.88 °",
+            "distanceToMecca": "8431.378 km"
+        },
+        {
+            "id": 163,
+            "city": "Muaro Sijunjung",
+            "gmt": "+7",
+            "latitude": "0°42' LS",
+            "longtitude": "100°58' BT",
+            "directionToMecca": "293.81 °",
+            "distanceToMecca": "7011.409 km"
+        },
+        {
+            "id": 164,
+            "city": "Muntilan",
+            "gmt": "+7",
+            "latitude": "7°35' LS",
+            "longtitude": "110°18' BT",
+            "directionToMecca": "294.68 °",
+            "distanceToMecca": "8332.85 km"
+        },
+        {
+            "id": 165,
+            "city": "Nabire",
+            "gmt": "+9",
+            "latitude": "3°18' LS",
+            "longtitude": "135°33' BT",
+            "directionToMecca": "291.2 °",
+            "distanceToMecca": "10742.648 km"
+        },
+        {
+            "id": 166,
+            "city": "Negara",
+            "gmt": "+8",
+            "latitude": "8°22' LS",
+            "longtitude": "114°37' BT",
+            "directionToMecca": "293.84 °",
+            "distanceToMecca": "8802.587 km"
+        },
+        {
+            "id": 167,
+            "city": "Nganjuk",
+            "gmt": "+7",
+            "latitude": "7°36' LS",
+            "longtitude": "111°55' BT",
+            "directionToMecca": "294.3 °",
+            "distanceToMecca": "8496.127 km"
+        },
+        {
+            "id": 168,
+            "city": "Ngawi",
+            "gmt": "+7",
+            "latitude": "7°25' LS",
+            "longtitude": "111°26' BT",
+            "directionToMecca": "294.37 °",
+            "distanceToMecca": "8439.159 km"
+        },
+        {
+            "id": 169,
+            "city": "Nunukan",
+            "gmt": "+8",
+            "latitude": "4°6' LU",
+            "longtitude": "117°40' BT",
+            "directionToMecca": "291.05 °",
+            "distanceToMecca": "8591.998 km"
+        },
+        {
+            "id": 170,
+            "city": "Pacitan",
+            "gmt": "+7",
+            "latitude": "8°12' LS",
+            "longtitude": "111°7' BT",
+            "directionToMecca": "294.62 °",
+            "distanceToMecca": "8443.088 km"
+        },
+        {
+            "id": 171,
+            "city": "Padang",
+            "gmt": "+7",
+            "latitude": "0°56' LS",
+            "longtitude": "100°27' BT",
+            "directionToMecca": "293.8 °",
+            "distanceToMecca": "6948.38 km"
+        },
+        {
+            "id": 172,
+            "city": "Padang Panjang",
+            "gmt": "+7",
+            "latitude": "0°40' LS",
+            "longtitude": "100°20' BT",
+            "directionToMecca": "293.95 °",
+            "distanceToMecca": "6948.377 km"
+        },
+        {
+            "id": 173,
+            "city": "Padang Sidempuan",
+            "gmt": "+7",
+            "latitude": "1°23' LU",
+            "longtitude": "99°16' BT",
+            "directionToMecca": "293.81 °",
+            "distanceToMecca": "6807.786 km"
+        },
+        {
+            "id": 174,
+            "city": "Pagaralam",
+            "gmt": "+7",
+            "latitude": "4°1' LS",
+            "longtitude": "103°16' BT",
+            "directionToMecca": "295.29 °",
+            "distanceToMecca": "7460.353 km"
+        },
+        {
+            "id": 175,
+            "city": "Painan",
+            "gmt": "+7",
+            "latitude": "1°20' LS",
+            "longtitude": "100°36' BT",
+            "directionToMecca": "294.82 °",
+            "distanceToMecca": "7066.349 km"
+        },
+        {
+            "id": 176,
+            "city": "Palangkaraya",
+            "gmt": "+7",
+            "latitude": "2°15' LS",
+            "longtitude": "113°56' BT",
+            "directionToMecca": "292.72 °",
+            "distanceToMecca": "8466.538 km"
+        },
+        {
+            "id": 177,
+            "city": "Palembang",
+            "gmt": "+7",
+            "latitude": "2°59' LS",
+            "longtitude": "104°45' BT",
+            "directionToMecca": "294.56 °",
+            "distanceToMecca": "7562.042 km"
+        },
+        {
+            "id": 178,
+            "city": "Palopo",
+            "gmt": "+8",
+            "latitude": "3°7' LS",
+            "longtitude": "120°14' BT",
+            "directionToMecca": "292.12 °",
+            "distanceToMecca": "9150.989 km"
+        },
+        {
+            "id": 179,
+            "city": "Palu",
+            "gmt": "+8",
+            "latitude": "0°54' LS",
+            "longtitude": "119°52' BT",
+            "directionToMecca": "291.58 °",
+            "distanceToMecca": "8948.318 km"
+        },
+        {
+            "id": 180,
+            "city": "Pamekasan",
+            "gmt": "+7",
+            "latitude": "7°9' LS",
+            "longtitude": "113°29' BT",
+            "directionToMecca": "293.85 °",
+            "distanceToMecca": "8634 km"
+        },
+        {
+            "id": 181,
+            "city": "Pandeglang",
+            "gmt": "+7",
+            "latitude": "6°25' LS",
+            "longtitude": "106°5' BT",
+            "directionToMecca": "295.41 °",
+            "distanceToMecca": "7855.951 km"
+        },
+        {
+            "id": 182,
+            "city": "Pangka_",
+            "gmt": "+",
+            "latitude": "4°46' LS",
+            "longtitude": "119°34' BT",
+            "directionToMecca": "292.41 °",
+            "distanceToMecca": "9151.267 km"
+        },
+        {
+            "id": 183,
+            "city": "Pangkajene Sidenreng",
+            "gmt": "+8",
+            "latitude": "3°56' LS",
+            "longtitude": "119°48' BT",
+            "directionToMecca": "292.28 °",
+            "distanceToMecca": "9140.358 km"
+        },
+        {
+            "id": 184,
+            "city": "Pangkalan Bun",
+            "gmt": "+7",
+            "latitude": "2°41' LS",
+            "longtitude": "111°37' BT",
+            "directionToMecca": "293.17 °",
+            "distanceToMecca": "8247.683 km"
+        },
+        {
+            "id": 185,
+            "city": "Pangkalpinang",
+            "gmt": "+7",
+            "latitude": "2°8' LS",
+            "longtitude": "106°6' BT",
+            "directionToMecca": "293.97 °",
+            "distanceToMecca": "7660.592 km"
+        },
+        {
+            "id": 186,
+            "city": "Panyabungan",
+            "gmt": "+7",
+            "latitude": "0°51' LU",
+            "longtitude": "99°33' BT",
+            "directionToMecca": "294.02 °",
+            "distanceToMecca": "6860.44 km"
+        },
+        {
+            "id": 187,
+            "city": "Par_",
+            "gmt": "+",
+            "latitude": "7°43' LS",
+            "longtitude": "112°12' BT",
+            "directionToMecca": "294.26 °",
+            "distanceToMecca": "8529.931 km"
+        },
+        {
+            "id": 188,
+            "city": "Parepare",
+            "gmt": "+8",
+            "latitude": "3°59' LS",
+            "longtitude": "119°40' BT",
+            "directionToMecca": "292.3 °",
+            "distanceToMecca": "9128.735 km"
+        },
+        {
+            "id": 189,
+            "city": "Pariaman",
+            "gmt": "+7",
+            "latitude": "0°38' LS",
+            "longtitude": "100°8' BT",
+            "directionToMecca": "294 °",
+            "distanceToMecca": "6929.509 km"
+        },
+        {
+            "id": 190,
+            "city": "Pasuruan",
+            "gmt": "+7",
+            "latitude": "7°38' LS",
+            "longtitude": "112°54' BT",
+            "directionToMecca": "294.08 °",
+            "distanceToMecca": "8596.705 km"
+        },
+        {
+            "id": 191,
+            "city": "Pati",
+            "gmt": "+7",
+            "latitude": "6°45' LS",
+            "longtitude": "111°2' BT",
+            "directionToMecca": "294.3 °",
+            "distanceToMecca": "8368.62 km"
+        },
+        {
+            "id": 192,
+            "city": "Payakumbuh",
+            "gmt": "+7",
+            "latitude": "0°12' LS",
+            "longtitude": "100°38' BT",
+            "directionToMecca": "294.11 °",
+            "distanceToMecca": "6999.824 km"
+        },
+        {
+            "id": 193,
+            "city": "Pekalongan",
+            "gmt": "+7",
+            "latitude": "6°54' LS",
+            "longtitude": "109°40' BT",
+            "directionToMecca": "294.66 °",
+            "distanceToMecca": "8237.837 km"
+        },
+        {
+            "id": 194,
+            "city": "Pekan Baru",
+            "gmt": "+7",
+            "latitude": "0°36' LU",
+            "longtitude": "101°14' BT",
+            "directionToMecca": "293.8 °",
+            "distanceToMecca": "7043.033 km"
+        },
+        {
+            "id": 195,
+            "city": "Pemalang",
+            "gmt": "+7",
+            "latitude": "6°54' LS",
+            "longtitude": "109°22' BT",
+            "directionToMecca": "294.73 °",
+            "distanceToMecca": "8207.683 km"
+        },
+        {
+            "id": 196,
+            "city": "Pematangsiantar",
+            "gmt": "+7",
+            "latitude": "2°56' LU",
+            "longtitude": "99°3' BT",
+            "directionToMecca": "293.05 °",
+            "distanceToMecca": "6717.78 km"
+        },
+        {
+            "id": 197,
+            "city": "Pendopo",
+            "gmt": "+7",
+            "latitude": "3°47' LS",
+            "longtitude": "102°58' BT",
+            "directionToMecca": "295.28 °",
+            "distanceToMecca": "7419.225 km"
+        },
+        {
+            "id": 198,
+            "city": "Pinrang",
+            "gmt": "+8",
+            "latitude": "3°46' LS",
+            "longtitude": "119°41' BT",
+            "directionToMecca": "292.27 °",
+            "distanceToMecca": "9121.402 km"
+        },
+        {
+            "id": 199,
+            "city": "Pleihari",
+            "gmt": "+8",
+            "latitude": "3°48' LS",
+            "longtitude": "114°45' BT",
+            "directionToMecca": "292.94 °",
+            "distanceToMecca": "8616.504 km"
+        },
+        {
+            "id": 200,
+            "city": "Polewali",
+            "gmt": "+8",
+            "latitude": "4°15' LS",
+            "longtitude": "119°37' BT",
+            "directionToMecca": "292.34 °",
+            "distanceToMecca": "9134.746 km"
+        },
+        {
+            "id": 201,
+            "city": "Pondok Gede",
+            "gmt": "+7",
+            "latitude": "6°20' LS",
+            "longtitude": "106°55' BT",
+            "directionToMecca": "295.17 °",
+            "distanceToMecca": "7935.48 km"
+        },
+        {
+            "id": 202,
+            "city": "Ponorogo",
+            "gmt": "+7",
+            "latitude": "7°52' LS",
+            "longtitude": "111°27' BT",
+            "directionToMecca": "294.47 °",
+            "distanceToMecca": "8461.307 km"
+        },
+        {
+            "id": 203,
+            "city": "Pontianak",
+            "gmt": "+7",
+            "latitude": "0°0' LU",
+            "longtitude": "109°19' BT",
+            "directionToMecca": "292.73 °",
+            "distanceToMecca": "7896.565 km"
+        },
+        {
+            "id": 204,
+            "city": "Poso",
+            "gmt": "+8",
+            "latitude": "1°20' LS",
+            "longtitude": "120°55' BT",
+            "directionToMecca": "291.84 °",
+            "distanceToMecca": "9148.008 km"
+        },
+        {
+            "id": 205,
+            "city": "Prabumulih",
+            "gmt": "+7",
+            "latitude": "3°26' LS",
+            "longtitude": "104°13' BT",
+            "directionToMecca": "294.85 °",
+            "distanceToMecca": "7528.836 km"
+        },
+        {
+            "id": 206,
+            "city": "Praya",
+            "gmt": "+7",
+            "latitude": "8°39' LS",
+            "longtitude": "116°17' BT",
+            "directionToMecca": "293.52 °",
+            "distanceToMecca": "8983.323 km"
+        },
+        {
+            "id": 207,
+            "city": "Probolinggo",
+            "gmt": "+7",
+            "latitude": "7°46' LS",
+            "longtitude": "113°13' BT",
+            "directionToMecca": "294.04 °",
+            "distanceToMecca": "8634.618 km"
+        },
+        {
+            "id": 208,
+            "city": "Purbalingga",
+            "gmt": "+7",
+            "latitude": "7°23' LS",
+            "longtitude": "109°22' BT",
+            "directionToMecca": "294.86 °",
+            "distanceToMecca": "8229.989 km"
+        },
+        {
+            "id": 209,
+            "city": "Purukcahu",
+            "gmt": "+7",
+            "latitude": "0°35' LS",
+            "longtitude": "114°35' BT",
+            "directionToMecca": "291.99 °",
+            "distanceToMecca": "8414.789 km"
+        },
+        {
+            "id": 210,
+            "city": "Purwakarta",
+            "gmt": "+7",
+            "latitude": "6°35' LS",
+            "longtitude": "107°29' BT",
+            "directionToMecca": "295.1 °",
+            "distanceToMecca": "8003.974 km"
+        },
+        {
+            "id": 211,
+            "city": "Purwodadigrobogan",
+            "gmt": "+7",
+            "latitude": "7°7' LS",
+            "longtitude": "110°55' BT",
+            "directionToMecca": "294.42 °",
+            "distanceToMecca": "8373.508 km"
+        },
+        {
+            "id": 212,
+            "city": "Purwokerto",
+            "gmt": "+7",
+            "latitude": "7°25' LS",
+            "longtitude": "109°14' BT",
+            "directionToMecca": "294.9 °",
+            "distanceToMecca": "8218.164 km"
+        },
+        {
+            "id": 213,
+            "city": "Purworejo",
+            "gmt": "+7",
+            "latitude": "7°43' LS",
+            "longtitude": "110°1' BT",
+            "directionToMecca": "294.78 °",
+            "distanceToMecca": "8310.564 km"
+        },
+        {
+            "id": 214,
+            "city": "Putussibau",
+            "gmt": "+7",
+            "latitude": "0°50' LU",
+            "longtitude": "112°56' BT",
+            "directionToMecca": "292.08 °",
+            "distanceToMecca": "8234.104 km"
+        },
+        {
+            "id": 215,
+            "city": "Raha",
+            "gmt": "+8",
+            "latitude": "4°55' LS",
+            "longtitude": "123°0' BT",
+            "directionToMecca": "292 °",
+            "distanceToMecca": "9510.368 km"
+        },
+        {
+            "id": 216,
+            "city": "Rangkasbitung",
+            "gmt": "+7",
+            "latitude": "6°21' LS",
+            "longtitude": "106°15' BT",
+            "directionToMecca": "295.35 °",
+            "distanceToMecca": "7869.483 km"
+        },
+        {
+            "id": 217,
+            "city": "Rantau",
+            "gmt": "+8",
+            "latitude": "2°55' LS",
+            "longtitude": "115°9' BT",
+            "directionToMecca": "292.7 °",
+            "distanceToMecca": "8619.782 km"
+        },
+        {
+            "id": 218,
+            "city": "Rantauprapat",
+            "gmt": "+7",
+            "latitude": "2°15' LU",
+            "longtitude": "99°50' BT",
+            "directionToMecca": "293.27 °",
+            "distanceToMecca": "6827.527 km"
+        },
+        {
+            "id": 219,
+            "city": "Rantepao",
+            "gmt": "+8",
+            "latitude": "2°58' LS",
+            "longtitude": "119°54' BT",
+            "directionToMecca": "292.14 °",
+            "distanceToMecca": "9110.418 km"
+        },
+        {
+            "id": 220,
+            "city": "Rembang",
+            "gmt": "+7",
+            "latitude": "6°42' LS",
+            "longtitude": "111°21' BT",
+            "directionToMecca": "294.22 °",
+            "distanceToMecca": "8398.308 km"
+        },
+        {
+            "id": 221,
+            "city": "Rengat",
+            "gmt": "+7",
+            "latitude": "0°30' LS",
+            "longtitude": "102°45' BT",
+            "directionToMecca": "293.57 °",
+            "distanceToMecca": "7202.191 km"
+        },
+        {
+            "id": 222,
+            "city": "Ruteng",
+            "gmt": "+8",
+            "latitude": "8°35' LS",
+            "longtitude": "120°30' BT",
+            "directionToMecca": "292.67 °",
+            "distanceToMecca": "9407.791 km"
+        },
+        {
+            "id": 223,
+            "city": "Sabang",
+            "gmt": "+7",
+            "latitude": "5°53' LU",
+            "longtitude": "95°20' BT",
+            "directionToMecca": "291.95 °",
+            "distanceToMecca": "6212.026 km"
+        },
+        {
+            "id": 224,
+            "city": "Salatiga",
+            "gmt": "+7",
+            "latitude": "7°19' LS",
+            "longtitude": "110°30' BT",
+            "directionToMecca": "294.56 °",
+            "distanceToMecca": "8340.713 km"
+        },
+        {
+            "id": 225,
+            "city": "Samarinda",
+            "gmt": "+8",
+            "latitude": "0°27' LS",
+            "longtitude": "117°9' BT",
+            "directionToMecca": "291.82 °",
+            "distanceToMecca": "8685.511 km"
+        },
+        {
+            "id": 226,
+            "city": "Sampang",
+            "gmt": "+7",
+            "latitude": "7°11' LS",
+            "longtitude": "113°13' BT",
+            "directionToMecca": "293.92 °",
+            "distanceToMecca": "8608.528 km"
+        },
+        {
+            "id": 227,
+            "city": "Sampit",
+            "gmt": "+7",
+            "latitude": "2°34' LS",
+            "longtitude": "113°0' BT",
+            "directionToMecca": "292.93 °",
+            "distanceToMecca": "8384.315 km"
+        },
+        {
+            "id": 228,
+            "city": "Sanggau",
+            "gmt": "+7",
+            "latitude": "0°15' LU",
+            "longtitude": "110°15' BT",
+            "directionToMecca": "292.53 °",
+            "distanceToMecca": "7981.938 km"
+        },
+        {
+            "id": 229,
+            "city": "Sawahlunto",
+            "gmt": "+7",
+            "latitude": "0°40' LS",
+            "longtitude": "100°52' BT",
+            "directionToMecca": "293.84 °",
+            "distanceToMecca": "7002.7 km"
+        },
+        {
+            "id": 230,
+            "city": "Sekayu",
+            "gmt": "+7",
+            "latitude": "2°51' LS",
+            "longtitude": "103°51' BT",
+            "directionToMecca": "294.71 °",
+            "distanceToMecca": "7464.886 km"
+        },
+        {
+            "id": 231,
+            "city": "Selong",
+            "gmt": "+8",
+            "latitude": "8°39' LS",
+            "longtitude": "116°32' BT",
+            "directionToMecca": "293.47 °",
+            "distanceToMecca": "9008.581 km"
+        },
+        {
+            "id": 232,
+            "city": "Semarang",
+            "gmt": "+7",
+            "latitude": "6°58' LS",
+            "longtitude": "110°29' BT",
+            "directionToMecca": "294.48 °",
+            "distanceToMecca": "8323.049 km"
+        },
+        {
+            "id": 233,
+            "city": "Sengkang",
+            "gmt": "+8",
+            "latitude": "4°8' LS",
+            "longtitude": "120°2' BT",
+            "directionToMecca": "292.27 °",
+            "distanceToMecca": "9172.699 km"
+        },
+        {
+            "id": 234,
+            "city": "Serang",
+            "gmt": "+7",
+            "latitude": "6°8' LS",
+            "longtitude": "106°10' BT",
+            "directionToMecca": "295.3 °",
+            "distanceToMecca": "7850.938 km"
+        },
+        {
+            "id": 235,
+            "city": "Serui",
+            "gmt": "+9",
+            "latitude": "6°18' LS",
+            "longtitude": "130°1' BT",
+            "directionToMecca": "291.29 °",
+            "distanceToMecca": "10289.574 km"
+        },
+        {
+            "id": 236,
+            "city": "Sibolga",
+            "gmt": "+7",
+            "latitude": "1°45' LU",
+            "longtitude": "98°47' BT",
+            "directionToMecca": "293.72 °",
+            "distanceToMecca": "6742.253 km"
+        },
+        {
+            "id": 237,
+            "city": "Sidikalang",
+            "gmt": "+7",
+            "latitude": "2°45' LU",
+            "longtitude": "98°19' BT",
+            "directionToMecca": "293.28 °",
+            "distanceToMecca": "6650.705 km"
+        },
+        {
+            "id": 238,
+            "city": "Sidoarjo",
+            "gmt": "+7",
+            "latitude": "7°27' LS",
+            "longtitude": "112°43' BT",
+            "directionToMecca": "294.08 °",
+            "distanceToMecca": "8569.982 km"
+        },
+        {
+            "id": 239,
+            "city": "Sigli",
+            "gmt": "+7",
+            "latitude": "5°25' LU",
+            "longtitude": "96°0' BT",
+            "directionToMecca": "292.14 °",
+            "distanceToMecca": "6299.819 km"
+        },
+        {
+            "id": 240,
+            "city": "Singaparna",
+            "gmt": "+7",
+            "latitude": "7°21' LS",
+            "longtitude": "108°6' BT",
+            "directionToMecca": "295.17 °",
+            "distanceToMecca": "8101.57 km"
+        },
+        {
+            "id": 241,
+            "city": "Singaraja",
+            "gmt": "+8",
+            "latitude": "8°6' LS",
+            "longtitude": "115°6' BT",
+            "directionToMecca": "293.69 °",
+            "distanceToMecca": "8839.547 km"
+        },
+        {
+            "id": 242,
+            "city": "Singkawang",
+            "gmt": "+7",
+            "latitude": "0°53' LU",
+            "longtitude": "108°56' BT",
+            "directionToMecca": "292.49 °",
+            "distanceToMecca": "7819.745 km"
+        },
+        {
+            "id": 243,
+            "city": "Sinjai",
+            "gmt": "+8",
+            "latitude": "5°7' LS",
+            "longtitude": "120°15' BT",
+            "directionToMecca": "292.36 °",
+            "distanceToMecca": "9236.07 km"
+        },
+        {
+            "id": 244,
+            "city": "Sintang",
+            "gmt": "+7",
+            "latitude": "0°4' LU",
+            "longtitude": "111°30' BT",
+            "directionToMecca": "292.44 °",
+            "distanceToMecca": "8118.318 km"
+        },
+        {
+            "id": 245,
+            "city": "Situbondo",
+            "gmt": "+7",
+            "latitude": "7°42' LS",
+            "longtitude": "114°0' BT",
+            "directionToMecca": "293.85 °",
+            "distanceToMecca": "8710.692 km"
+        },
+        {
+            "id": 246,
+            "city": "Slawi",
+            "gmt": "+7",
+            "latitude": "6°59' LS",
+            "longtitude": "109°8' BT",
+            "directionToMecca": "294.81 °",
+            "distanceToMecca": "8188.088 km"
+        },
+        {
+            "id": 247,
+            "city": "Sleman",
+            "gmt": "+7",
+            "latitude": "7°43' LS",
+            "longtitude": "110°21' BT",
+            "directionToMecca": "294.7 °",
+            "distanceToMecca": "8343.996 km"
+        },
+        {
+            "id": 248,
+            "city": "Soasiu",
+            "gmt": "+8",
+            "latitude": "1°42' LU",
+            "longtitude": "127°36' BT",
+            "directionToMecca": "291.37 °",
+            "distanceToMecca": "9717.613 km"
+        },
+        {
+            "id": 249,
+            "city": "Soe",
+            "gmt": "+8",
+            "latitude": "9°52' LS",
+            "longtitude": "124°17' BT",
+            "directionToMecca": "292.05 °",
+            "distanceToMecca": "9846.316 km"
+        },
+        {
+            "id": 250,
+            "city": "Solo",
+            "gmt": "+7",
+            "latitude": "7°42' LS",
+            "longtitude": "110°48' BT",
+            "directionToMecca": "294.58 °",
+            "distanceToMecca": "8388.401 km"
+        },
+        {
+            "id": 251,
+            "city": "Solok",
+            "gmt": "+7",
+            "latitude": "0°48' LS",
+            "longtitude": "100°39' BT",
+            "directionToMecca": "293.82 °",
+            "distanceToMecca": "6974.69 km"
+        },
+        {
+            "id": 252,
+            "city": "Soreang",
+            "gmt": "+7",
+            "latitude": "7°2' LS",
+            "longtitude": "107°31' BT",
+            "directionToMecca": "295.23 °",
+            "distanceToMecca": "8028.373 km"
+        },
+        {
+            "id": 253,
+            "city": "Sorong",
+            "gmt": "+9",
+            "latitude": "0°48' LS",
+            "longtitude": "131°13' BT",
+            "directionToMecca": "291.44 °",
+            "distanceToMecca": "10128.727 km"
+        },
+        {
+            "id": 254,
+            "city": "Sragen",
+            "gmt": "+7",
+            "latitude": "7°26' LS",
+            "longtitude": "111°1' BT",
+            "directionToMecca": "294.47 °",
+            "distanceToMecca": "8397.993 km"
+        },
+        {
+            "id": 255,
+            "city": "Stabat",
+            "gmt": "+7",
+            "latitude": "3°46' LU",
+            "longtitude": "98°23' BT",
+            "directionToMecca": "292.72 °",
+            "distanceToMecca": "6613.785 km"
+        },
+        {
+            "id": 256,
+            "city": "Subang",
+            "gmt": "+7",
+            "latitude": "6°35' LS",
+            "longtitude": "107°47' BT",
+            "directionToMecca": "295.03 °",
+            "distanceToMecca": "8034.057 km"
+        },
+        {
+            "id": 257,
+            "city": "Sukabumi",
+            "gmt": "+7",
+            "latitude": "6°56' LS",
+            "longtitude": "106°50' BT",
+            "directionToMecca": "295.38 °",
+            "distanceToMecca": "7955.332 km"
+        },
+        {
+            "id": 258,
+            "city": "Sukoharjo",
+            "gmt": "+7",
+            "latitude": "7°40' LS",
+            "longtitude": "110°50' BT",
+            "directionToMecca": "294.57 °",
+            "distanceToMecca": "8390.223 km"
+        },
+        {
+            "id": 259,
+            "city": "Sumbawa Besar",
+            "gmt": "+8",
+            "latitude": "8°32' LS",
+            "longtitude": "117°27' BT",
+            "directionToMecca": "293.26 °",
+            "distanceToMecca": "9096.207 km"
+        },
+        {
+            "id": 260,
+            "city": "Sumedang",
+            "gmt": "+7",
+            "latitude": "6°52' LS",
+            "longtitude": "107°55' BT",
+            "directionToMecca": "295.08 °",
+            "distanceToMecca": "8060.63 km"
+        },
+        {
+            "id": 261,
+            "city": "Sumenep",
+            "gmt": "+7",
+            "latitude": "7°0' LS",
+            "longtitude": "113°51' BT",
+            "directionToMecca": "293.75 °",
+            "distanceToMecca": "8664.434 km"
+        },
+        {
+            "id": 262,
+            "city": "Sungai Liat",
+            "gmt": "+7",
+            "latitude": "1°51' LS",
+            "longtitude": "106°8' BT",
+            "directionToMecca": "293.87 °",
+            "distanceToMecca": "7651.338 km"
+        },
+        {
+            "id": 263,
+            "city": "Sungai Penuh",
+            "gmt": "+7",
+            "latitude": "2°5' LS",
+            "longtitude": "101°23' BT",
+            "directionToMecca": "294.97 °",
+            "distanceToMecca": "7180.241 km"
+        },
+        {
+            "id": 264,
+            "city": "Sungguminasa",
+            "gmt": "+8",
+            "latitude": "5°11' LS",
+            "longtitude": "119°28' BT",
+            "directionToMecca": "292.48 °",
+            "distanceToMecca": "9158.523 km"
+        },
+        {
+            "id": 265,
+            "city": "Surabaya",
+            "gmt": "+7",
+            "latitude": "7°14' LS",
+            "longtitude": "112°45' BT",
+            "directionToMecca": "294.03 °",
+            "distanceToMecca": "8563.625 km"
+        },
+        {
+            "id": 266,
+            "city": "Surakarta",
+            "gmt": "+7",
+            "latitude": "7°32' LS",
+            "longtitude": "110°50' BT",
+            "directionToMecca": "294.54 °",
+            "distanceToMecca": "8384.125 km"
+        },
+        {
+            "id": 267,
+            "city": "Tabanan",
+            "gmt": "+8",
+            "latitude": "8°32' LS",
+            "longtitude": "115°8' BT",
+            "directionToMecca": "293.75 °",
+            "distanceToMecca": "8862.096 km"
+        },
+        {
+            "id": 268,
+            "city": "Tahuna",
+            "gmt": "+8",
+            "latitude": "3°37' LU",
+            "longtitude": "125°29' BT",
+            "directionToMecca": "291.2 °",
+            "distanceToMecca": "9421.464 km"
+        },
+        {
+            "id": 269,
+            "city": "Takalar",
+            "gmt": "+8",
+            "latitude": "5°25' LS",
+            "longtitude": "119°26' BT",
+            "directionToMecca": "292.51 °",
+            "distanceToMecca": "9164.935 km"
+        },
+        {
+            "id": 270,
+            "city": "Takengon",
+            "gmt": "+7",
+            "latitude": "4°38' LU",
+            "longtitude": "96°50' BT",
+            "directionToMecca": "292.48 °",
+            "distanceToMecca": "6418.124 km"
+        },
+        {
+            "id": 271,
+            "city": "Tamiang Layang",
+            "gmt": "+8",
+            "latitude": "2°7' LS",
+            "longtitude": "115°10' BT",
+            "directionToMecca": "292.54 °",
+            "distanceToMecca": "8587.613 km"
+        },
+        {
+            "id": 272,
+            "city": "Tanah Grogot",
+            "gmt": "+8",
+            "latitude": "1°55' LS",
+            "longtitude": "116°12' BT",
+            "directionToMecca": "292.37 °",
+            "distanceToMecca": "8685.52 km"
+        },
+        {
+            "id": 273,
+            "city": "Tangerang",
+            "gmt": "+7",
+            "latitude": "6°11' LS",
+            "longtitude": "106°38' BT",
+            "directionToMecca": "295.2 °",
+            "distanceToMecca": "7900.051 km"
+        },
+        {
+            "id": 274,
+            "city": "Tanjung Balai",
+            "gmt": "+7",
+            "latitude": "2°59' LU",
+            "longtitude": "99°47' BT",
+            "directionToMecca": "292.91 °",
+            "distanceToMecca": "6790.743 km"
+        },
+        {
+            "id": 275,
+            "city": "Tanjung Enim",
+            "gmt": "+7",
+            "latitude": "3°45' LS",
+            "longtitude": "103°48' BT",
+            "directionToMecca": "295.06 °",
+            "distanceToMecca": "7501.528 km"
+        },
+        {
+            "id": 276,
+            "city": "Tanjung Pandan",
+            "gmt": "+7",
+            "latitude": "2°45' LS",
+            "longtitude": "107°37' BT",
+            "directionToMecca": "293.89 °",
+            "distanceToMecca": "7842.443 km"
+        },
+        {
+            "id": 277,
+            "city": "Tanjung Pinang",
+            "gmt": "+7",
+            "latitude": "0°55' LU",
+            "longtitude": "104°27' BT",
+            "directionToMecca": "293.1 °",
+            "distanceToMecca": "7357.914 km"
+        },
+        {
+            "id": 278,
+            "city": "Tanjung Redep",
+            "gmt": "+8",
+            "latitude": "2°9' LU",
+            "longtitude": "117°29' BT",
+            "directionToMecca": "291.46 °",
+            "distanceToMecca": "8650.93 km"
+        },
+        {
+            "id": 279,
+            "city": "Tanjung Selor",
+            "gmt": "+8",
+            "latitude": "2°51' LU",
+            "longtitude": "117°22' BT",
+            "directionToMecca": "291.32 °",
+            "distanceToMecca": "8610.703 km"
+        },
+        {
+            "id": 280,
+            "city": "Tapak Tuan",
+            "gmt": "+7",
+            "latitude": "3°15' LU",
+            "longtitude": "97°10' BT",
+            "directionToMecca": "293.22 °",
+            "distanceToMecca": "6511.421 km"
+        },
+        {
+            "id": 281,
+            "city": "Tarakan",
+            "gmt": "+8",
+            "latitude": "3°18' LU",
+            "longtitude": "117°38' BT",
+            "directionToMecca": "291.22 °",
+            "distanceToMecca": "8620.345 km"
+        },
+        {
+            "id": 282,
+            "city": "Tarutung",
+            "gmt": "+7",
+            "latitude": "2°0' LU",
+            "longtitude": "98°54' BT",
+            "directionToMecca": "293.57 °",
+            "distanceToMecca": "6743.115 km"
+        },
+        {
+            "id": 283,
+            "city": "Tasikmalaya",
+            "gmt": "+7",
+            "latitude": "7°20' LS",
+            "longtitude": "108°14' BT",
+            "directionToMecca": "295.13 °",
+            "distanceToMecca": "8114.131 km"
+        },
+        {
+            "id": 284,
+            "city": "Tebing Tinggi",
+            "gmt": "+7",
+            "latitude": "3°20' LU",
+            "longtitude": "99°8' BT",
+            "directionToMecca": "292.83 °",
+            "distanceToMecca": "6709.147 km"
+        },
+        {
+            "id": 285,
+            "city": "Tegal",
+            "gmt": "+7",
+            "latitude": "6°52' LS",
+            "longtitude": "109°9' BT",
+            "directionToMecca": "294.77 °",
+            "distanceToMecca": "8184.378 km"
+        },
+        {
+            "id": 286,
+            "city": "Temanggung",
+            "gmt": "+7",
+            "latitude": "7°19' LS",
+            "longtitude": "110°12' BT",
+            "directionToMecca": "294.63 °",
+            "distanceToMecca": "8310.564 km"
+        },
+        {
+            "id": 287,
+            "city": "Tembilahan",
+            "gmt": "+7",
+            "latitude": "0°19' LS",
+            "longtitude": "103°9' BT",
+            "directionToMecca": "293.57 °",
+            "distanceToMecca": "7251.107 km"
+        },
+        {
+            "id": 288,
+            "city": "Tenggarong",
+            "gmt": "+7",
+            "latitude": "0°24' LS",
+            "longtitude": "116°58' BT",
+            "directionToMecca": "291.84 °",
+            "distanceToMecca": "8668.604 km"
+        },
+        {
+            "id": 289,
+            "city": "Ternate",
+            "gmt": "+9",
+            "latitude": "1°48' LU",
+            "longtitude": "127°24' BT",
+            "directionToMecca": "291.37 °",
+            "distanceToMecca": "9692.863 km"
+        },
+        {
+            "id": 290,
+            "city": "Tolitoli",
+            "gmt": "+8",
+            "latitude": "1°3' LU",
+            "longtitude": "120°50' BT",
+            "directionToMecca": "291.52 °",
+            "distanceToMecca": "9042.372 km"
+        },
+        {
+            "id": 291,
+            "city": "Tondano",
+            "gmt": "+8",
+            "latitude": "1°35' LU",
+            "longtitude": "124°54' BT",
+            "directionToMecca": "291.37 °",
+            "distanceToMecca": "9442.387 km"
+        },
+        {
+            "id": 292,
+            "city": "Trenggalek",
+            "gmt": "+7",
+            "latitude": "8°3' LS",
+            "longtitude": "111°43' BT",
+            "directionToMecca": "294.44 °",
+            "distanceToMecca": "8496.45 km"
+        },
+        {
+            "id": 293,
+            "city": "Tual",
+            "gmt": "+9",
+            "latitude": "5°38' LS",
+            "longtitude": "132°44' BT",
+            "directionToMecca": "291.11 °",
+            "distanceToMecca": "10543.654 km"
+        },
+        {
+            "id": 294,
+            "city": "Tuban",
+            "gmt": "+7",
+            "latitude": "6°54' LS",
+            "longtitude": "112°4' BT",
+            "directionToMecca": "294.11 °",
+            "distanceToMecca": "8479.667 km"
+        },
+        {
+            "id": 295,
+            "city": "Tulung Agung",
+            "gmt": "+7",
+            "latitude": "8°4' LS",
+            "longtitude": "111°54' BT",
+            "directionToMecca": "294.4 °",
+            "distanceToMecca": "8515.627 km"
+        },
+        {
+            "id": 296,
+            "city": "Ujung Berung",
+            "gmt": "+7",
+            "latitude": "6°55' LS",
+            "longtitude": "107°42' BT",
+            "directionToMecca": "295.15 °",
+            "distanceToMecca": "8041.26 km"
+        },
+        {
+            "id": 297,
+            "city": "Ungaran",
+            "gmt": "+7",
+            "latitude": "7°8' LS",
+            "longtitude": "110°24' BT",
+            "directionToMecca": "294.54 °",
+            "distanceToMecca": "8322.274 km"
+        },
+        {
+            "id": 298,
+            "city": "Waikabubak",
+            "gmt": "+8",
+            "latitude": "9°38' LS",
+            "longtitude": "119°25' BT",
+            "directionToMecca": "292.98 °",
+            "distanceToMecca": "9342.755 km"
+        },
+        {
+            "id": 299,
+            "city": "Waingapu",
+            "gmt": "+8",
+            "latitude": "9°39' LS",
+            "longtitude": "120°16' BT",
+            "directionToMecca": "292.81 °",
+            "distanceToMecca": "9429.49 km"
+        },
+        {
+            "id": 300,
+            "city": "Wamena",
+            "gmt": "+9",
+            "latitude": "3°54' LS",
+            "longtitude": "138°41' BT",
+            "directionToMecca": "291.09 °",
+            "distanceToMecca": "11091.335 km"
+        },
+        {
+            "id": 301,
+            "city": "Watampone",
+            "gmt": "+8",
+            "latitude": "4°29' LS",
+            "longtitude": "120°25' BT",
+            "directionToMecca": "292.27 °",
+            "distanceToMecca": "9226.711 km"
+        },
+        {
+            "id": 302,
+            "city": "Watansoppeng",
+            "gmt": "+8",
+            "latitude": "4°21' LS",
+            "longtitude": "119°53' BT",
+            "directionToMecca": "292.32 °",
+            "distanceToMecca": "9166.332 km"
+        },
+        {
+            "id": 303,
+            "city": "Wates",
+            "gmt": "+7",
+            "latitude": "7°51' LU",
+            "longtitude": "110°10' BT",
+            "directionToMecca": "290 °",
+            "distanceToMecca": "7669.086 km"
+        },
+        {
+            "id": 304,
+            "city": "Wonogiri",
+            "gmt": "+7",
+            "latitude": "7°49' LS",
+            "longtitude": "110°55' BT",
+            "directionToMecca": "294.58 °",
+            "distanceToMecca": "8405.457 km"
+        },
+        {
+            "id": 305,
+            "city": "Wonosari",
+            "gmt": "+7",
+            "latitude": "7°58' LS",
+            "longtitude": "110°36' BT",
+            "directionToMecca": "294.7 °",
+            "distanceToMecca": "8380.567 km"
+        },
+        {
+            "id": 306,
+            "city": "Wonosobo",
+            "gmt": "+7",
+            "latitude": "7°22' LS",
+            "longtitude": "109°54' BT",
+            "directionToMecca": "294.72 °",
+            "distanceToMecca": "8282.732 km"
+        },
+        {
+            "id": 307,
+            "city": "Yogyakarta",
+            "gmt": "+7",
+            "latitude": "7°48' LS",
+            "longtitude": "110°24' BT",
+            "directionToMecca": "294.7 °",
+            "distanceToMecca": "8352.844 km"
+        }
+    ]
+}
