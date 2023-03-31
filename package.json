@@ -1,17 +1,23 @@
 {
-  "name": "jadwal-adzan-api",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^1.3.4",
-    "cheerio": "^1.0.0-rc.12",
-    "dotenv": "^16.0.3"
-  }
+    "name": "jadwal-adzan-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node src/index.js",
+        "dev": "nodemon src/index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.3.4",
+        "cheerio": "^1.0.0-rc.12",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2"
+    }
 }
