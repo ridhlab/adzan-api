@@ -10,7 +10,6 @@ class AdzanController {
 
         month = parseInt(month);
         year = parseInt(year);
-        // date = parseInt(date);
 
         if (!month || month > 12 || month < 1) {
             return res.status(400).send(responseErrorInvalidBuilder("month"));
