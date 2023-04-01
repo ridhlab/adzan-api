@@ -1,7 +1,8 @@
-const { data: cities } = require("../data/city.json");
+const CityService = require("../services/city");
 
 class CityController {
     static getAllCity(req, res) {
+        const cities = CityService.getAllCity();
         return res.status(200).send({ statusCode: 200, data: cities });
     }
 
@@ -9,7 +10,7 @@ class CityController {
         let id = req.params.id;
         id = parseInt(id);
 
-        const city = cities.find((item) => item.id === id);
+        const city = CityService.getCity(id);
 
         if (!city) {
             return res.status(400).send({ statusCode: 400, message: "City not found" });
