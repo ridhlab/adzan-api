@@ -2,15 +2,15 @@
     "name": "adzan-api",
     "version": "1.0.0",
     "description": "",
-    "main": "src/index.js",
+    "main": "index.js",
     "repository": "https://github.com/ridhlab/adzan-api",
     "author": "Muhammad Ridwan",
     "private": "false",
     "license": "MIT",
     "scripts": {
         "build": "npm install",
-        "start": "node src/index.js",
-        "dev": "nodemon src/index.js",
+        "start": "node index.js",
+        "dev": "nodemon index.js",
         "scrape": "node src/scraper.js"
     },
     "dependencies": {
