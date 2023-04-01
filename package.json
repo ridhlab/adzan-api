@@ -7,10 +7,8 @@
     "author": "Muhammad Ridwan",
     "private": "false",
     "license": "MIT",
-    "engines": {
-        "node": "14.x"
-    },
     "scripts": {
+        "build": "npm install",
         "start": "node src/index.js",
         "dev": "nodemon src/index.js",
         "scrape": "node src/scraper.js"
