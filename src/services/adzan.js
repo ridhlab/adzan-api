@@ -3,10 +3,7 @@ const { TARGET_URL } = require("../constants/constants");
 const { getDataHtml } = require("../utils");
 
 class AdzanService {
-    static async getAdzanTimeFullMonth(cityId, month, year) {
-        const dataHtml = await getDataHtml(TARGET_URL + `?id=${cityId}&m=${month}&y=${year}`);
-        const $ = cheerio.load(dataHtml);
-
+    parseDataAdzan($) {
         const dataAdzan = [];
 
         const data = $("tr[align=center]").map((id, element) => {
@@ -35,6 +32,21 @@ class AdzanService {
         }
 
         return finalDataAdzan;
+    }
+
+    static async getAdzanTime(cityId, month, year, date) {
+        const dataHtml = await getDataHtml(TARGET_URL + `?id=${cityId}&m=${month}&y=${year}`);
+        const $ = cheerio.load(dataHtml);
+
+        let dataAdzan = new AdzanService().parseDataAdzan($);
+
+        if (date) {
+            date = parseInt(date);
+            if (!date || date < 1 || date > dataAdzan.length) return dataAdzan;
+            return dataAdzan[date - 1];
+        }
+
+        return dataAdzan;
     }
 }
 
