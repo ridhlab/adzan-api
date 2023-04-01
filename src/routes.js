@@ -10,8 +10,10 @@ router.get("/", (req, res) => {
         endpoints: {
             getCity: "/city",
             getCityDetail: "/city/:id",
-            getAdzanTime: "/adzan?cityId={cityId}&month={month}&year={year}",
+            getAdzanTime: "/adzan?cityId={cityId}&month={month}&year={year}&date={date}",
         },
+        author: "Muhammad Ridwan",
+        sourceCode: "https://github.com/ridhlab/adzan-api",
     });
 });
 
