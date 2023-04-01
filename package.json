@@ -7,8 +7,10 @@
     "author": "Muhammad Ridwan",
     "private": "false",
     "license": "MIT",
+    "engines": {
+        "node": "14.x"
+    },
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node src/index.js",
         "dev": "nodemon src/index.js",
         "scrape": "node src/scraper.js"
