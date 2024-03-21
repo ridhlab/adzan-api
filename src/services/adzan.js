@@ -1,9 +1,9 @@
 const cheerio = require("cheerio");
 const { TARGET_URL } = require("../constants/constants");
-const { getDataHtml } = require("../utils");
+const { getDataHtml, getMonthSentence } = require("../utils");
 
 class AdzanService {
-    parseDataAdzan($) {
+    parseDataAdzan($, month, year) {
         const dataAdzan = [];
         $("tr.table-row-striped").map((id, element) => {
             const rowData = [];
@@ -18,7 +18,7 @@ class AdzanService {
 
         for (let i = 0; i < dataAdzan.length; i++) {
             const objAdzanTime = {
-                date: dataAdzan[i][0].split(" ").slice(0, 1).join(" "),
+                date: dataAdzan[i][0].split(" ").slice(0, 1).join(" ") + " " + getMonthSentence(month) + " " + year,
                 islamicDate: dataAdzan[i][1],
             };
             const adzan = {};
@@ -39,7 +39,7 @@ class AdzanService {
         const dataHtml = await getDataHtml(TARGET_URL + `?id=${cityId}&m=${month}&y=${year}`);
         const $ = cheerio.load(dataHtml);
 
-        let dataAdzan = new AdzanService().parseDataAdzan($);
+        let dataAdzan = new AdzanService().parseDataAdzan($, month, year);
 
         if (date) {
             date = parseInt(date);

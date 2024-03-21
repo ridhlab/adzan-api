@@ -21,10 +21,11 @@ class AdzanController {
             statusCode: 200,
             message: "Success get data",
             data: {
-                city,
+                city: city.city,
+                gmt: city.gmt,
+                latitude: city.latitude,
+                longtitude: city.longtitude,
                 ...(!adzanTime.length && { date }),
-                month: month.toString(),
-                year: year.toString(),
                 data: adzanTime,
             },
         });
