@@ -5,26 +5,27 @@ const { getDataHtml } = require("../utils");
 class AdzanService {
     parseDataAdzan($) {
         const dataAdzan = [];
-
-        const data = $("tr[align=center]").map((id, element) => {
+        $("tr.table-row-striped").map((id, element) => {
             const rowData = [];
-            for (let i = 0; i < 9; i++) {
+            for (let i = 0; i <= 9; i++) {
                 const data = $(element).find("td").eq(i).text();
                 rowData.push(data);
             }
             dataAdzan.push(rowData);
         });
-        dataAdzan.pop();
 
         const finalDataAdzan = [];
 
-        for (let i = 1; i < dataAdzan.length; i++) {
+        for (let i = 0; i < dataAdzan.length; i++) {
             const objAdzanTime = {
-                date: dataAdzan[i][0],
+                date: dataAdzan[i][0].split(" ").slice(0, 1).join(" "),
+                islamicDate: dataAdzan[i][1],
             };
             const adzan = {};
-            for (let j = 1; j < dataAdzan[0].length; j++) {
-                adzan[[dataAdzan[0][j]]] = dataAdzan[i][j];
+            for (let j = 2; j < dataAdzan[0].length; j++) {
+                $("table thead tr").map((key, element) => {
+                    adzan[$(element).find("th").eq(j).text()] = dataAdzan[i][j];
+                });
             }
             objAdzanTime["adzan"] = adzan;
 
