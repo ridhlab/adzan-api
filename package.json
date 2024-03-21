@@ -8,7 +8,6 @@
     "private": "false",
     "license": "MIT",
     "scripts": {
-        "build": "npm install",
         "start": "node index.js",
         "dev": "nodemon index.js",
         "scrape": "node src/scraper.js"
