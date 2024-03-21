@@ -24,7 +24,7 @@ class AdzanService {
             const adzan = {};
             for (let j = 2; j < dataAdzan[0].length; j++) {
                 $("table thead tr").map((key, element) => {
-                    adzan[$(element).find("th").eq(j).text()] = dataAdzan[i][j];
+                    adzan[$(element).find("th").eq(j).text().toLowerCase()] = dataAdzan[i][j];
                 });
             }
             objAdzanTime["adzan"] = adzan;
