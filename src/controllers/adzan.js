@@ -8,17 +8,11 @@ class AdzanController {
 
         const city = CityService.getCity(parseInt(cityId));
 
-        month = parseInt(month);
-        year = parseInt(year);
+        month = parseInt(month ?? new Date().getMonth() + 1);
+        year = parseInt(year ?? new Date().getFullYear());
 
         if (!city) {
             return res.status(400).send(responseErrorInvalidBuilder("city"));
-        }
-        if (!month || month > 12 || month < 1) {
-            month = new Date().getMonth() + 1;
-        }
-        if (!year || year < 1) {
-            year = new Date().getFullYear();
         }
 
         const adzanTime = await AdzanService.getAdzanTime(cityId, month, year, date);
